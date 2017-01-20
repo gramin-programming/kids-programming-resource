@@ -1,0 +1,1243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="基本コマンド集.svg"
+   inkscape:export-filename="/home/ihe/document/downloads/standard_command.png"
+   inkscape:export-xdpi="169.33"
+   inkscape:export-ydpi="169.33">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutS"
+       style="overflow:visible">
+      <path
+         id="path4636"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.2,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <filter
+       id="filter3963"
+       inkscape:label="Drop Shadow"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood3965"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3967"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3969"
+         stdDeviation="4"
+         result="blur" />
+      <feOffset
+         id="feOffset3971"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite3973"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter4024"
+       inkscape:label="Drop Shadow"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4026"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4028"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4030"
+         stdDeviation="4"
+         result="blur" />
+      <feOffset
+         id="feOffset4032"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite4034"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter4163"
+       inkscape:label="Drop Shadow"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4165"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4167"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4169"
+         stdDeviation="4"
+         result="blur" />
+      <feOffset
+         id="feOffset4171"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite4173"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#525252"
+     borderopacity="1"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="641.5983"
+     inkscape:cy="263.56861"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1146"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     borderlayer="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3023"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+       transform="translate(0,308.5)"><flowRegion
+         id="flowRegion3025"><rect
+           id="rect3027"
+           width="608.57141"
+           height="107.14286"
+           x="61.42857"
+           y="210.93361" /></flowRegion><flowPara
+         id="flowPara3029" /></flowRoot>    <g
+       transform="matrix(0.70416206,0,0,0.70416206,320.05231,606.12609)"
+       style="display:inline"
+       id="g3110">
+      <path
+         style="fill:#83cc83;fill-opacity:1;stroke:#83cc83;stroke-width:3.14489436"
+         d="m -452.85383,-361.8521 900.98171,0 c 39.37699,0 71.0776,31.70061 71.0776,71.0776 l 0,12.63257 c 0,39.37699 -31.70061,71.0776 -71.0776,71.0776 l -900.98171,0 z"
+         id="rect4323-4-9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csssscc"
+         inkscape:export-filename="/home/ihe/document/pj/make_all/workspace/makeall/proj/gramin/text/images/logo.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <flowRoot
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/ihe/document/pj/make_all/workspace/makeall/proj/gramin/text/images/logo.png"
+         transform="matrix(1.2982132,0,0,1.2982132,-563.79323,-53.63329)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#daf0da;fill-opacity:1;stroke:#daf0da;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Migu OneC'"
+         id="flowRoot4288-8-8"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4290-8-9"><rect
+             style="fill:#daf0da;fill-opacity:1;stroke:#daf0da;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             y="-162.48157"
+             x="82.8125"
+             height="100.78125"
+             width="367.1875"
+             id="rect4292-7-6" /></flowRegion><flowPara
+           id="flowPara4294-2-1">Gra</flowPara></flowRoot>      <flowRoot
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/ihe/document/pj/make_all/workspace/makeall/proj/gramin/text/images/logo.png"
+         transform="matrix(2.5775231,1.80187,-1.80187,2.5775231,-37.27295,-213.33708)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#83cc83;fill-opacity:1;stroke:#83cc83;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;font-family:'Migu OneC'"
+         id="flowRoot4288-3-2"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4290-6-1"><rect
+             style="fill:#83cc83;fill-opacity:1;stroke:#83cc83;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+             y="-162.48157"
+             x="82.8125"
+             height="100.78125"
+             width="367.1875"
+             id="rect4292-4-0" /></flowRegion><flowPara
+           id="flowPara4294-5-5">min</flowPara></flowRoot>      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/ihe/document/pj/make_all/workspace/makeall/proj/gramin/text/images/logo.png"
+         inkscape:connector-curvature="0"
+         id="flowRoot4288-3-7-8"
+         d="m 405.25254,-360.14242 3.04662,2.16212 1.47417,-2.16212 -4.52079,0 z m 38.03359,0 -12.48132,17.88659 8.84502,6.19151 16.41243,-23.39015 c -3.15949,-0.42598 -6.3514,-0.68795 -9.63124,-0.68795 l -3.14489,0 z m 39.90084,10.22091 -20.83492,29.77822 8.94329,6.19151 20.73665,-29.67994 c -2.7748,-2.32037 -5.73189,-4.41018 -8.84502,-6.28979 z m 23.88155,23.88154 -17.3952,24.9626 8.84501,6.19151 14.05375,-20.14698 c -1.50873,-3.86447 -3.37347,-7.5096 -5.50356,-11.00713 z m 10.41746,43.43886 -0.49139,0.68794 0.49139,0.39311 0,-1.08105 z"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f3f7f3;fill-opacity:1;stroke:#f3f7f3;stroke-width:9.43468285;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Migu OneC'" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'"
+       x="211.40155"
+       y="420.60474"
+       id="text2985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="211.40155"
+         y="420.60474"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">基本コマンド集</tspan></text>
+    <path
+       style="opacity:0.98000004;color:#000000;fill:#9cd69c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 0,480.34374 0,30.875 337.4375,0 c 0,0 7.0625,-3.16777 7.0625,-7.09375 l 0,-16.6875 c 0,-3.92598 -7.0625,-7.09375 -7.0625,-7.09375 z"
+       id="rect3290-3-6-3-9-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsscc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3140-8-9-5-3-8"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:'Migu OneC'"
+       transform="translate(63.233061,117.75616)"><flowRegion
+         id="flowRegion3142-2-4-2-9-9"><rect
+           id="rect3144-1-2-7-8-3"
+           width="463.55139"
+           height="138.31776"
+           x="-35.514019"
+           y="362.64255"
+           style="fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara3146-2-52-2-7-1"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:'梅Pゴシック';-inkscape-font-specification:'梅Pゴシック Bold'">Linux Mint のコマンド</flowPara></flowRoot>    <g
+       id="g4685"
+       transform="translate(0,-13.99997)">
+      <g
+         id="g4589">
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+           x="29.427891"
+           y="549.88855"
+           id="text3996-3"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3998-5"
+             x="29.427891"
+             y="549.88855"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">ディレクトリの中を見る</tspan></text>
+        <g
+           id="g4570"
+           transform="translate(-18,0.53708012)">
+          <flowRoot
+             transform="translate(162.66931,355.87979)"
+             style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC'"
+             id="flowRoot3979-7-17"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3981-7-72"><rect
+                 style="writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+                 y="179.4192"
+                 x="182.83762"
+                 height="52.022865"
+                 width="78.28685"
+                 id="rect3983-4-2" /></flowRegion><flowPara
+               style="font-size:12px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+               id="flowPara3985-4-7">(えるえす)</flowPara></flowRoot>          <text
+             sodipodi:linespacing="125%"
+             id="text4290-1-0-9-2"
+             y="550.57214"
+             x="323.68515"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+             xml:space="preserve"><tspan
+               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'"
+               y="550.57214"
+               x="323.68515"
+               id="tspan4292-7-6-3-4"
+               sodipodi:role="line">ls</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="translate(0,-5.6563708)"
+         id="g4650">
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:0.84814818;color:#000000;fill:#ceebce;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 72.999998,560.86328 377.412132,0 0,34 -377.412132,0 z"
+           id="rect4143" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+           x="82.19873"
+           y="583.00488"
+           id="text4290-1-0-9-8"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4292-7-6-3-3"
+             x="82.19873"
+             y="583.00488"
+             style="font-size:18px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">$ ls</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4701"
+       transform="translate(0,-11.564453)">
+      <g
+         id="g4578">
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+           x="29.427891"
+           y="615.88855"
+           id="text3996-3-7"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3998-5-1"
+             x="29.427891"
+             y="615.88855"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">ディレクトリを作る</tspan></text>
+        <g
+           id="g4562"
+           transform="translate(-17.941406,0.47555668)">
+          <flowRoot
+             transform="translate(200.66931,421.87979)"
+             style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC'"
+             id="flowRoot3979-7-17-4"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3981-7-72-7"><rect
+                 style="writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+                 y="179.4192"
+                 x="182.83762"
+                 height="29.022873"
+                 width="115.28683"
+                 id="rect3983-4-2-1" /></flowRegion><flowPara
+               style="font-size:12px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+               id="flowPara3985-4-7-1">(えむけーでぃあー)</flowPara></flowRoot>          <text
+             sodipodi:linespacing="125%"
+             id="text4290-1-0-9-2-2"
+             y="616.57214"
+             x="323.68515"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+             xml:space="preserve"><tspan
+               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'"
+               y="616.57214"
+               x="323.68515"
+               id="tspan4292-7-6-3-4-6"
+               sodipodi:role="line">mkdir</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="translate(0,-5.0362549)"
+         id="g4655">
+        <rect
+           style="opacity:0.84814818;color:#000000;fill:#ceebce;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4143-0"
+           width="377.41214"
+           height="34"
+           x="73"
+           y="626.18164" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+           x="82.19873"
+           y="649.92725"
+           id="text4290-1-0-9-8-7"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4292-7-6-3-3-3"
+             x="82.19873"
+             y="649.92725"
+             style="font-size:18px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">$ mkdir 新しいディレクトリ</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g5679"
+       transform="translate(0,-14)">
+      <g
+         id="g5668">
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+           x="29.032383"
+           y="686.46954"
+           id="text3996-3-7-4"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3998-5-1-7"
+             x="29.032383"
+             y="686.46954"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">別のディレクトリに移動する</tspan></text>
+        <g
+           id="g5660">
+          <flowRoot
+             transform="translate(151.80212,492.93637)"
+             style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC'"
+             id="flowRoot3979-7-17-4-5"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3981-7-72-7-7"><rect
+                 style="writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+                 y="179.4192"
+                 x="182.83762"
+                 height="29.022873"
+                 width="115.28683"
+                 id="rect3983-4-2-1-0" /></flowRegion><flowPara
+               style="font-size:12px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+               id="flowPara3985-4-7-1-0">(しーでー)</flowPara></flowRoot>          <text
+             sodipodi:linespacing="125%"
+             id="text4290-1-0-9-2-2-2"
+             y="687.62872"
+             x="306.81796"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+             xml:space="preserve"><tspan
+               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'"
+               y="687.62872"
+               x="306.81796"
+               id="tspan4292-7-6-3-4-6-3"
+               sodipodi:role="line">cd</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="translate(0,-2.5744326)"
+         id="g4660">
+        <rect
+           style="opacity:0.84814818;color:#000000;fill:#ceebce;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4143-0-1"
+           width="377.41214"
+           height="34"
+           x="73"
+           y="694.30084" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+           x="82.19873"
+           y="717.93219"
+           id="text4290-1-0-9-8-7-6"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4292-7-6-3-3-3-7"
+             x="82.19873"
+             y="717.93219"
+             style="font-size:18px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">$ cd 移動先ディレクトリ</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4733"
+       transform="translate(0,-8.7715609)">
+      <g
+         id="g4611">
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+           x="28.575352"
+           y="751.88855"
+           id="text3996-3-3"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3998-5-8"
+             x="28.575352"
+             y="751.88855"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">Pluma でファイルを編集する</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+           x="305.74374"
+           y="749.42566"
+           id="text4290-1-0-9-2-0"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4292-7-6-3-4-1"
+             x="305.74374"
+             y="749.42566"
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">pluma</tspan></text>
+      </g>
+      <g
+         transform="translate(0,-5.9963427)"
+         id="g4665">
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:0.84814818;color:#000000;fill:#ceebce;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 72.999998,763.22083 377.412132,0 0,34 -377.412132,0 z"
+           id="rect4143-9" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+           x="82.19873"
+           y="785.99524"
+           id="text4290-1-0-9-8-6"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4292-7-6-3-3-36"
+             x="82.19873"
+             y="785.99524"
+             style="font-size:18px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">$ pluma 空のファイル.txt</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4764"
+       transform="translate(0,-10.224587)">
+      <g
+         id="g4628">
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+           x="28.97086"
+           y="905.88843"
+           id="text3996-3-7-4-3"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3998-5-1-7-4"
+             x="28.97086"
+             y="905.88843"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">ファイルを移動する</tspan></text>
+        <g
+           id="g4538"
+           transform="translate(-17.941406,0.55453617)">
+          <flowRoot
+             transform="translate(174.66931,711.87979)"
+             style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC'"
+             id="flowRoot3979-7-17-4-5-5"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3981-7-72-7-7-9"><rect
+                 style="writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+                 y="179.4192"
+                 x="182.83762"
+                 height="29.022873"
+                 width="115.28683"
+                 id="rect3983-4-2-1-0-4" /></flowRegion><flowPara
+               style="font-size:12px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+               id="flowPara3985-4-7-1-0-6">(えむぶい)</flowPara></flowRoot>          <text
+             sodipodi:linespacing="125%"
+             id="text4290-1-0-9-2-2-2-2"
+             y="906.68933"
+             x="323.68515"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+             xml:space="preserve"><tspan
+               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'"
+               y="906.68933"
+               x="323.68515"
+               id="tspan4292-7-6-3-4-6-3-9"
+               sodipodi:role="line">mv</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="translate(0,-6.493591)"
+         id="g4675">
+        <rect
+           style="opacity:0.84814818;color:#000000;fill:#ceebce;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4143-0-1-1"
+           width="377.41214"
+           height="34"
+           x="73"
+           y="917.71796" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+           x="82.19873"
+           y="941.34052"
+           id="text4290-1-0-9-8-7-6-6"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4292-7-6-3-3-3-7-0"
+             x="82.19873"
+             y="941.34052"
+             style="font-size:18px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">$ mv 移動元ファイル 移動先ファイル</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g5383"
+       transform="translate(0,-14)">
+      <g
+         transform="translate(0,5.1629944)"
+         id="g4617">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none"
+           x="28.97086"
+           y="819.88855"
+           id="text3996-3-7-44"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3998-5-1-9"
+             x="28.97086"
+             y="819.88855"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';fill:#3d953d;fill-opacity:1;stroke:none">ファイルをコピーする</tspan></text>
+        <g
+           id="g4546"
+           transform="translate(-37.160156,0.55465824)">
+          <flowRoot
+             transform="translate(190.66931,625.87979)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Migu OneC';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+             id="flowRoot3979-7-17-4-6"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3981-7-72-7-2"><rect
+                 style="writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+                 y="179.4192"
+                 x="182.83762"
+                 height="29.022873"
+                 width="115.28683"
+                 id="rect3983-4-2-1-6" /></flowRegion><flowPara
+               style="font-size:12px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+               id="flowPara3985-4-7-1-1">(しーぴー)</flowPara></flowRoot>          <text
+             sodipodi:linespacing="125%"
+             id="text4290-1-0-9-2-2-6"
+             y="816.87097"
+             x="343.68515"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';fill:#3d953d;fill-opacity:1;stroke:none"
+               y="816.87097"
+               x="343.68515"
+               id="tspan4292-7-6-3-4-6-39"
+               sodipodi:role="line">cp</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="translate(0,-0.1516418)"
+         id="g4670">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.84814818;fill:#ceebce;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           id="rect4143-0-2"
+           width="377.41214"
+           height="34"
+           x="73"
+           y="830.53912" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none"
+           x="82.19873"
+           y="853.30475"
+           id="text4290-1-0-9-8-7-1"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4292-7-6-3-3-3-0"
+             x="82.19873"
+             y="853.30475"
+             style="font-size:18px;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';fill:#3d953d;fill-opacity:1;stroke:none">$ cp コピー元ファイル コピー先ファイル</tspan></text>
+      </g>
+      <flowRoot
+         transform="translate(-535.50164,103.13211)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Migu OneC';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot4463"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4465"><rect
+             y="759.65082"
+             x="646.29559"
+             height="35.296448"
+             width="400.34015"
+             id="rect4467" /></flowRegion><flowPara
+           style="font-size:14px;fill:#3d953d"
+           id="flowPara4469">ディレクトリをコピーしたい時は cp -r のように &quot;-r&quot; をつける</flowPara></flowRoot>    </g>
+    <g
+       id="g4780"
+       transform="translate(0,-14)">
+      <g
+         id="g4639">
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+           x="28.97086"
+           y="977.88843"
+           id="text3996-3-7-44-4"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3998-5-1-9-9"
+             x="28.97086"
+             y="977.88843"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">ファイルを削除する</tspan></text>
+        <g
+           id="g4530"
+           transform="translate(-37.941406,0.55450439)">
+          <flowRoot
+             transform="translate(190.66931,783.8798)"
+             style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC'"
+             id="flowRoot3979-7-17-4-6-3"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3981-7-72-7-2-7"><rect
+                 style="writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+                 y="179.4192"
+                 x="182.83762"
+                 height="29.022873"
+                 width="115.28683"
+                 id="rect3983-4-2-1-6-5" /></flowRegion><flowPara
+               style="font-size:12px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+               id="flowPara3985-4-7-1-1-9">(あーるえむ)</flowPara></flowRoot>          <text
+             sodipodi:linespacing="125%"
+             id="text4290-1-0-9-2-2-6-3"
+             y="978.86517"
+             x="343.68515"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+             xml:space="preserve"><tspan
+               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'"
+               y="978.86517"
+               x="343.68515"
+               id="tspan4292-7-6-3-4-6-39-9"
+               sodipodi:role="line">rm</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="translate(0,-7.142517)"
+         id="g4680">
+        <rect
+           style="opacity:0.84814818;color:#000000;fill:#ceebce;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4143-0-2-1"
+           width="377.41214"
+           height="34"
+           x="73"
+           y="990.36688" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+           x="82.19873"
+           y="1013.9982"
+           id="text4290-1-0-9-8-7-1-3"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4292-7-6-3-3-3-0-4"
+             x="82.19873"
+             y="1013.9982"
+             style="font-size:18px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">$ rm 削除したいファイル</tspan></text>
+      </g>
+      <flowRoot
+         transform="translate(-528.63295,255.96899)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Migu OneC'"
+         id="flowRoot4463-4"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4465-8"><rect
+             y="759.65082"
+             x="646.29559"
+             height="31.29645"
+             width="387.34015"
+             id="rect4467-0" /></flowRegion><flowPara
+           style="font-size:14px;fill:#3d953d"
+           id="flowPara4469-6">ディレクトリを削除したい時は rm -r のように &quot;-r&quot; をつける</flowPara></flowRoot>    </g>
+    <path
+       style="opacity:0.98000004;color:#000000;fill:#9cd69c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1051.5,480.34374 0,30.875 -337.4375,0 c 0,0 -7.0625,-3.16777 -7.0625,-7.09375 l 0,-16.6875 c 0,-3.92598 7.0625,-7.09375 7.0625,-7.09375 z"
+       id="rect3290-3-6-3-9-4-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsscc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3140-8-9-5-3-8-6"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:'Migu OneC'"
+       transform="translate(886.23306,117.75616)"><flowRegion
+         id="flowRegion3142-2-4-2-9-9-7"><rect
+           id="rect3144-1-2-7-8-3-5"
+           width="463.55139"
+           height="138.31776"
+           x="-35.514019"
+           y="362.64255"
+           style="fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara3146-2-52-2-7-1-4"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:'梅Pゴシック';-inkscape-font-specification:'梅Pゴシック Bold'">Windows のコマンド</flowPara></flowRoot>    <g
+       id="g5530"
+       transform="translate(0,-14)">
+      <g
+         id="g5519">
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+           x="599.42792"
+           y="549.88861"
+           id="text3996-3-9"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3998-5-2"
+             x="599.42792"
+             y="549.88861"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">フォルダの中を見る</tspan></text>
+        <g
+           id="g5415">
+          <flowRoot
+             transform="translate(724.66931,356.4169)"
+             style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC'"
+             id="flowRoot3979-7-17-6"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3981-7-72-0"><rect
+                 style="writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+                 y="179.4192"
+                 x="182.83762"
+                 height="52.022865"
+                 width="78.28685"
+                 id="rect3983-4-2-8" /></flowRegion><flowPara
+               style="font-size:12px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+               id="flowPara3985-4-7-9">(でぃあ)</flowPara></flowRoot>          <text
+             sodipodi:linespacing="125%"
+             id="text4290-1-0-9-2-1"
+             y="551.10925"
+             x="875.68518"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+             xml:space="preserve"><tspan
+               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'"
+               y="551.10925"
+               x="875.68518"
+               id="tspan4292-7-6-3-4-4"
+               sodipodi:role="line">dir</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="matrix(1.0344451,0,0,1,567.48551,-5.6563363)"
+         id="g4650-5">
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:0.84814818;color:#000000;fill:#ceebce;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 72.999998,560.86328 377.412132,0 0,34 -377.412132,0 z"
+           id="rect4143-91" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+           x="82.19873"
+           y="583.00488"
+           id="text4290-1-0-9-8-3"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4292-7-6-3-3-0"
+             x="82.19873"
+             y="583.00488"
+             style="font-size:18px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">&gt; dir</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g5546"
+       transform="translate(0,-14)">
+      <g
+         id="g5508">
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+           x="599.42792"
+           y="618.3241"
+           id="text3996-3-7-9"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3998-5-1-75"
+             x="599.42792"
+             y="618.3241"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">フォルダを作る</tspan></text>
+        <g
+           id="g5423"
+           transform="translate(-0.83978271,0)">
+          <flowRoot
+             transform="translate(750.7279,424.79089)"
+             style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC'"
+             id="flowRoot3979-7-17-4-3"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3981-7-72-7-6"><rect
+                 style="writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+                 y="179.4192"
+                 x="182.83762"
+                 height="29.022873"
+                 width="115.28683"
+                 id="rect3983-4-2-1-62" /></flowRegion><flowPara
+               style="font-size:12px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+               id="flowPara3985-4-7-1-6">(えむけーでぃあー)</flowPara></flowRoot>          <text
+             sodipodi:linespacing="125%"
+             id="text4290-1-0-9-2-2-4"
+             y="619.48328"
+             x="875.74371"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+             xml:space="preserve"><tspan
+               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'"
+               y="619.48328"
+               x="875.74371"
+               id="tspan4292-7-6-3-4-6-9"
+               sodipodi:role="line">mkdir</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g5455">
+        <rect
+           style="opacity:0.84814818;color:#000000;fill:#ceebce;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4143-0-8"
+           width="390.41214"
+           height="34"
+           x="643"
+           y="623.58093" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+           x="652.19873"
+           y="647.32654"
+           id="text4290-1-0-9-8-7-2"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4292-7-6-3-3-3-8"
+             x="652.19873"
+             y="647.32654"
+             style="font-size:18px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">&gt; mkdir 新しいディレクトリ</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g5599"
+       transform="translate(0,-14)">
+      <g
+         id="g5486">
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+           x="598.97089"
+           y="909.66382"
+           id="text3996-3-7-4-3-7"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3998-5-1-7-4-1"
+             x="598.97089"
+             y="909.66382"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">ファイルを移動する</tspan></text>
+        <g
+           id="g5439"
+           transform="translate(25.160217,0)">
+          <flowRoot
+             transform="translate(720.7279,716.3269)"
+             style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC'"
+             id="flowRoot3979-7-17-4-5-5-5"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3981-7-72-7-7-9-1"><rect
+                 style="writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+                 y="179.4192"
+                 x="182.83762"
+                 height="29.022873"
+                 width="115.28683"
+                 id="rect3983-4-2-1-0-4-3" /></flowRegion><flowPara
+               style="font-size:12px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+               id="flowPara3985-4-7-1-0-6-3">(むーぶ)</flowPara></flowRoot>          <text
+             sodipodi:linespacing="125%"
+             id="text4290-1-0-9-2-2-2-2-9"
+             y="911.01929"
+             x="849.74371"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+             xml:space="preserve"><tspan
+               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'"
+               y="911.01929"
+               x="849.74371"
+               id="tspan4292-7-6-3-4-6-3-9-4"
+               sodipodi:role="line">move</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g5465">
+        <rect
+           style="opacity:0.84814818;color:#000000;fill:#ceebce;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4143-0-1-1-4"
+           width="390.41214"
+           height="34"
+           x="643"
+           y="914.99976" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+           x="652.19873"
+           y="938.62231"
+           id="text4290-1-0-9-8-7-6-6-6"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4292-7-6-3-3-3-7-0-3"
+             x="652.19873"
+             y="938.62231"
+             style="font-size:18px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">&gt; move 移動元ファイル 移動先ファイル</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g5615"
+       transform="translate(0,-14)">
+      <g
+         id="g5475">
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+           x="598.97089"
+           y="977.88843"
+           id="text3996-3-7-44-4-3"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3998-5-1-9-9-9"
+             x="598.97089"
+             y="977.88843"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">ファイルを削除する</tspan></text>
+        <g
+           id="g5447"
+           transform="translate(-0.05853271,0)">
+          <flowRoot
+             transform="translate(726.7279,784.43431)"
+             style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC'"
+             id="flowRoot3979-7-17-4-6-3-6"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3981-7-72-7-2-7-5"><rect
+                 style="writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+                 y="179.4192"
+                 x="182.83762"
+                 height="29.022873"
+                 width="115.28683"
+                 id="rect3983-4-2-1-6-5-3" /></flowRegion><flowPara
+               style="font-size:12px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+               id="flowPara3985-4-7-1-1-9-9">(でる)</flowPara></flowRoot>          <text
+             sodipodi:linespacing="125%"
+             id="text4290-1-0-9-2-2-6-3-1"
+             y="979.41968"
+             x="875.74371"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+             xml:space="preserve"><tspan
+               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'"
+               y="979.41968"
+               x="875.74371"
+               id="tspan4292-7-6-3-4-6-39-9-1"
+               sodipodi:role="line">del</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g5470">
+        <rect
+           style="opacity:0.84814818;color:#000000;fill:#ceebce;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4143-0-2-1-2"
+           width="390.41214"
+           height="34"
+           x="643"
+           y="983.22437" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+           x="652.19873"
+           y="1006.8557"
+           id="text4290-1-0-9-8-7-1-3-4"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4292-7-6-3-3-3-0-4-4"
+             x="652.19873"
+             y="1006.8557"
+             style="font-size:18px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">&gt; del 削除したいファイル</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g5562"
+       transform="translate(0,-14)">
+      <g
+         id="g5497">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none"
+           x="598.97089"
+           y="825.05157"
+           id="text3996-3-7-44-6"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3998-5-1-9-1"
+             x="598.97089"
+             y="825.05157"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';fill:#3d953d;fill-opacity:1;stroke:none">ファイルをコピーする</tspan></text>
+        <g
+           id="g5431"
+           transform="translate(-0.83978271,0)">
+          <flowRoot
+             transform="translate(743.50915,631.59741)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Migu OneC';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+             id="flowRoot3979-7-17-4-6-6"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3981-7-72-7-2-3"><rect
+                 style="writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+                 y="179.4192"
+                 x="182.83762"
+                 height="29.022873"
+                 width="115.28683"
+                 id="rect3983-4-2-1-6-53" /></flowRegion><flowPara
+               style="font-size:12px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+               id="flowPara3985-4-7-1-1-5">(こぴー)</flowPara></flowRoot>          <text
+             sodipodi:linespacing="125%"
+             id="text4290-1-0-9-2-2-6-5"
+             y="822.58862"
+             x="876.52496"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';fill:#3d953d;fill-opacity:1;stroke:none"
+               y="822.58862"
+               x="876.52496"
+               id="tspan4292-7-6-3-4-6-39-4"
+               sodipodi:role="line">copy</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g5460">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.84814818;fill:#ceebce;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           id="rect4143-0-2-16"
+           width="390.41214"
+           height="34"
+           x="643"
+           y="830.38751" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none"
+           x="652.19873"
+           y="853.15314"
+           id="text4290-1-0-9-8-7-1-4"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4292-7-6-3-3-3-0-48"
+             x="652.19873"
+             y="853.15314"
+             style="font-size:18px;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';fill:#3d953d;fill-opacity:1;stroke:none">&gt; copy コピー元ファイル コピー先ファイル</tspan></text>
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4463-7"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Migu OneC';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(34.49836,91.13211)"><flowRegion
+         id="flowRegion4465-3"><rect
+           id="rect4467-5"
+           width="400.34015"
+           height="35.296448"
+           x="646.29559"
+           y="759.65082" /></flowRegion><flowPara
+         id="flowPara4469-0"
+         style="font-size:14px;fill:#3d953d">ディレクトリをコピーしたい時は xcopy を同じように使う</flowPara></flowRoot>    <g
+       id="g5777"
+       transform="translate(0,-14)">
+      <g
+         transform="translate(570.72073,0)"
+         id="g5668-9">
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+           x="29.032383"
+           y="686.46954"
+           id="text3996-3-7-4-6"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3998-5-1-7-0"
+             x="29.032383"
+             y="686.46954"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">別のディレクトリに移動する</tspan></text>
+        <g
+           id="g5660-4">
+          <flowRoot
+             transform="translate(151.80212,492.93637)"
+             style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC'"
+             id="flowRoot3979-7-17-4-5-3"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3981-7-72-7-7-7"><rect
+                 style="writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+                 y="179.4192"
+                 x="182.83762"
+                 height="29.022873"
+                 width="115.28683"
+                 id="rect3983-4-2-1-0-43" /></flowRegion><flowPara
+               style="font-size:12px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none"
+               id="flowPara3985-4-7-1-0-0">(しーでー)</flowPara></flowRoot>          <text
+             sodipodi:linespacing="125%"
+             id="text4290-1-0-9-2-2-2-7"
+             y="687.62872"
+             x="306.81796"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+             xml:space="preserve"><tspan
+               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'"
+               y="687.62872"
+               x="306.81796"
+               id="tspan4292-7-6-3-4-6-3-4"
+               sodipodi:role="line">cd</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g5772">
+        <rect
+           style="opacity:0.84814818;color:#000000;fill:#ceebce;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4143-0-1-3"
+           width="390.41214"
+           height="34"
+           x="643.7207"
+           y="691.72638" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+           x="652.91943"
+           y="715.35773"
+           id="text4290-1-0-9-8-7-6-9"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4292-7-6-3-3-3-7-04"
+             x="652.91943"
+             y="715.35773"
+             style="font-size:18px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">&gt; cd 移動先ディレクトリ</tspan></text>
+      </g>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4319-9-9-7-9-99-5-0-9-5"
+       y="1045.5028"
+       x="852.29474"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
+       xml:space="preserve"><tspan
+         style="font-size:20px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'"
+         y="1045.5028"
+         x="852.29474"
+         id="tspan4321-1-4-7-9-2-6-3-8-4"
+         sodipodi:role="line">By Gramin</tspan></text>
+    <image
+       y="1019.4618"
+       x="959.80103"
+       id="image3761"
+       xlink:href="data:image/png;base64,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 AAAAAElFTkSuQmCC "
+       height="31"
+       width="88" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4463-7-2"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'Migu OneC';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(34.498358,243.13211)"><flowRegion
+         id="flowRegion4465-3-0"><rect
+           id="rect4467-5-2"
+           width="400.34015"
+           height="35.296448"
+           x="646.29559"
+           y="759.65082" /></flowRegion><flowPara
+         id="flowPara4469-0-2"
+         style="font-size:14px;fill:#3d953d">ディレクトリを削除したい時は rmdir を同じように使う</flowPara></flowRoot>  </g>
+</svg>
