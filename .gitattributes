@@ -1,0 +1,4 @@
+*.pdf -crlf -diff
+*.odp -crlf -diff
+*.png -crlf -diff
+*.jpg -crlf -diff
