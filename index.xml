@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>小学生のためのプログラミング教材</title>
-    <link>/kids-programming-resource/index.xml</link>
+    <link>/index.xml</link>
     <description>Recent content on 小学生のためのプログラミング教材</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy;2015 ぐらみん株式会社</copyright>
     <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
-    <atom:link href="/kids-programming-resource/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Java の抽象クラス・インタフェース・無名クラスを理解しよう</title>
-      <link>/kids-programming-resource/portfolio/work6/</link>
+      <link>/portfolio/work6/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>/kids-programming-resource/portfolio/work6/</guid>
+      <guid>/portfolio/work6/</guid>
       <description>&lt;p&gt;キッズプログラミング教室 Gramin でスマートフォンアプリ開発クラス向けに作成した資料です。&lt;/p&gt;
 
 &lt;p&gt;Java で抽象クラス・インタフェースの理解に苦しむ方を対象にしています。身近な例（哺乳類・爬虫類）を使って抽象クラス・インタフェースの使い道を簡単に説明し、無名クラスについても簡単に触れています。
@@ -40,10 +40,10 @@
     
     <item>
       <title>Linux と Windows の基本コマンド集</title>
-      <link>/kids-programming-resource/portfolio/work7/</link>
+      <link>/portfolio/work7/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>/kids-programming-resource/portfolio/work7/</guid>
+      <guid>/portfolio/work7/</guid>
       <description>&lt;p&gt;スマートフォン開発クラス（2017年3月閉講）では Linux Mint を使って Java プログラミングをしています。その上でコマンドを使う機会がありますがその際に利用している資料です。
 &lt;/p&gt;
 
@@ -66,10 +66,10 @@
     
     <item>
       <title>オブジェクト指向って何？</title>
-      <link>/kids-programming-resource/portfolio/work9/</link>
+      <link>/portfolio/work9/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>/kids-programming-resource/portfolio/work9/</guid>
+      <guid>/portfolio/work9/</guid>
       <description>&lt;p&gt;オンラインスクラッチクラスで作成した資料です。Scratch がもともとオブジェクト志向でできているため、その考え方の説明するために作成しました。
 &lt;/p&gt;
 
@@ -92,10 +92,10 @@
     
     <item>
       <title>キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方（Mac向け）</title>
-      <link>/kids-programming-resource/portfolio/work4/</link>
+      <link>/portfolio/work4/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>/kids-programming-resource/portfolio/work4/</guid>
+      <guid>/portfolio/work4/</guid>
       <description>&lt;p&gt;Mac で使われるキーボードの記号や特殊なキーの読み方です。
 &lt;/p&gt;
 
@@ -118,10 +118,10 @@
     
     <item>
       <title>キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方（Windows向け）</title>
-      <link>/kids-programming-resource/portfolio/work5/</link>
+      <link>/portfolio/work5/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>/kids-programming-resource/portfolio/work5/</guid>
+      <guid>/portfolio/work5/</guid>
       <description>&lt;p&gt;Windows で使われるキーボードの記号や特殊なキーの読み方です。
 &lt;/p&gt;
 
@@ -144,10 +144,10 @@
     
     <item>
       <title>キーボード入力ローマ字表</title>
-      <link>/kids-programming-resource/portfolio/work3/</link>
+      <link>/portfolio/work3/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>/kids-programming-resource/portfolio/work3/</guid>
+      <guid>/portfolio/work3/</guid>
       <description>&lt;p&gt;Gramin で使っているキーボード入力をする為のローマ字表です。よく使う文字は太字にして全てキーボードと同じように大文字にしています。
 &lt;/p&gt;
 
@@ -170,10 +170,10 @@
     
     <item>
       <title>キーボード入力表（Windows 向け）</title>
-      <link>/kids-programming-resource/portfolio/work2/</link>
+      <link>/portfolio/work2/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>/kids-programming-resource/portfolio/work2/</guid>
+      <guid>/portfolio/work2/</guid>
       <description>&lt;p&gt;Windows で使われるキーボードのキーの一覧と特殊なキーの簡単な説明です。
 &lt;/p&gt;
 
@@ -196,10 +196,10 @@
     
     <item>
       <title>キーボード入力表（Mac 向け）</title>
-      <link>/kids-programming-resource/portfolio/work1/</link>
+      <link>/portfolio/work1/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>/kids-programming-resource/portfolio/work1/</guid>
+      <guid>/portfolio/work1/</guid>
       <description>&lt;p&gt;Mac で使われるキーボードのキーの一覧と特殊なキーの簡単な説明です。
 &lt;/p&gt;
 
