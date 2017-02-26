@@ -16,14 +16,14 @@ Java で抽象クラス・インタフェースの理解に苦しむ方を対象
 ![Java の抽象クラス・インタフェース・無名クラスを理解しよう](../../img/portfolio/Java の抽象クラス・インタフェース・無名クラスを理解しよう.png "Java の抽象クラス・インタフェース・無名クラスを理解しよう")
 
 ### pdf 形式
-[Java の抽象クラス・インタフェース・無名クラスを理解しよう.pdf](../../../Java の抽象クラス・インタフェース・無名クラスを理解しよう.pdf "Java の抽象クラス・インタフェース・無名クラスを理解しよう.pdf")
+[Java の抽象クラス・インタフェース・無名クラスを理解しよう.pdf](https://github.com/gramin-programming/kids-programming-resource/blob/master/Java%20%E3%81%AE%E6%8A%BD%E8%B1%A1%E3%82%AF%E3%83%A9%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9%E3%83%BB%E7%84%A1%E5%90%8D%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%92%E7%90%86%E8%A7%A3%E3%81%97%E3%82%88%E3%81%86.pdf "Java の抽象クラス・インタフェース・無名クラスを理解しよう.pdf")
 
 
 ### odp 形式
 
-[Java の抽象クラス・インタフェース・無名クラスを理解しよう.odp](../../../Java の抽象クラス・インタフェース・無名クラスを理解しよう.odp "Java の抽象クラス・インタフェース・無名クラスを理解しよう.odp")
+[Java の抽象クラス・インタフェース・無名クラスを理解しよう.odp](https://github.com/gramin-programming/kids-programming-resource/blob/master/Java%20%E3%81%AE%E6%8A%BD%E8%B1%A1%E3%82%AF%E3%83%A9%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9%E3%83%BB%E7%84%A1%E5%90%8D%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%92%E7%90%86%E8%A7%A3%E3%81%97%E3%82%88%E3%81%86.odp "Java の抽象クラス・インタフェース・無名クラスを理解しよう.odp")
 
 ### ライセンス
-![Cretive Commons BY SA](https://komtmt.files.wordpress.com/2015/04/by-sa.png?w=300&h=105)
+![Cretive Commons BY SA](https://komtmt.files.wordpress.com/2015/04/by-sa.png?w=100)
 
 [BY SA について](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)
