@@ -19,7 +19,7 @@
       <description>&lt;p&gt;Mac で使われるキーボードのキーの一覧と特殊なキーの簡単な説明です。
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../../img/portfolio/キーボード入力表_mac.png&#34; alt=&#34;キーボード入力表_mac&#34; title=&#34;キーボード入力表_mac&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#39;キーボード入力表_mac&#39; src=&#39;../../img/portfolio/キーボード入力表_mac.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
 
@@ -42,12 +42,12 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>/portfolio/work6/</guid>
-      <description>&lt;p&gt;キッズプログラミング教室 Gramin でスマートフォンアプリ開発クラス向けに作成した資料です。&lt;/p&gt;
+      <description>&lt;p&gt;キッズプログラミング教室 Gramin で&lt;a href=&#39;https://gramin.jp/class/&#39;&gt;スマートフォンアプリ開発クラス（2017年3月閉講）&lt;/a&gt;向けに作成した資料です。&lt;/p&gt;
 
 &lt;p&gt;Java で抽象クラス・インタフェースの理解に苦しむ方を対象にしています。身近な例（哺乳類・爬虫類）を使って抽象クラス・インタフェースの使い道を簡単に説明し、無名クラスについても簡単に触れています。
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../../img/portfolio/Java の抽象クラス・インタフェース・無名クラスを理解しよう.png&#34; alt=&#34;Java の抽象クラス・インタフェース・無名クラスを理解しよう&#34; title=&#34;Java の抽象クラス・インタフェース・無名クラスを理解しよう&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#39;Java の抽象クラス・インタフェース・無名クラスを理解しよう&#39; src=&#39;../../img/portfolio/Java の抽象クラス・インタフェース・無名クラスを理解しよう.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
 
@@ -70,10 +70,10 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>/portfolio/work7/</guid>
-      <description>&lt;p&gt;スマートフォン開発クラス（2017年3月閉講）では Linux Mint を使って Java プログラミングをしています。その上でコマンドを使う機会がありますがその際に利用している資料です。
+      <description>&lt;p&gt;&lt;a href=&#39;https://gramin.jp/class/&#39;&gt;スマートフォンアプリ開発クラス（2017年3月閉講）&lt;/a&gt;では &lt;a href=&#39;https://linuxmint.com/&#39;&gt;Linux Mint&lt;/a&gt; を使って Java プログラミングをしています。その上でコマンドを使う機会がありますがその際に利用している資料です。
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../../img/portfolio/基本コマンド集.png&#34; alt=&#34;基本コマンド集&#34; title=&#34;基本コマンド集&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#39;基本コマンド集&#39; src=&#39;../../img/portfolio/基本コマンド集.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
 
@@ -91,15 +91,80 @@
     </item>
     
     <item>
-      <title>オブジェクト指向って何？</title>
-      <link>/portfolio/work9/</link>
+      <title>「端に触れたとき」を命令しよう</title>
+      <link>/portfolio/work19/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>/portfolio/work9/</guid>
-      <description>&lt;p&gt;オンラインスクラッチクラスで作成した資料です。Scratch がもともとオブジェクト志向でできているため、その考え方の説明するために作成しました。
+      <guid>/portfolio/work19/</guid>
+      <description>&lt;p&gt;小学校におじゃました時や&lt;a href=&#39;https://gramin.jp/online-scratch-class/&#39;&gt;オンラインスクラッチクラス&lt;/a&gt;で授業をするときに使う資料（しりょう）です。&lt;/p&gt;
+
+&lt;p&gt;「端に触れたとき」を命令する方法をまとめました。
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../../img/portfolio/オブジェクト指向って何？.png&#34; alt=&#34;オブジェクト指向って何？&#34; title=&#34;オブジェクト指向って何？&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#39;「端に触れたとき」を命令しよう&#39; src=&#39;../../img/portfolio/ref-touch-edge.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%83%92%E3%83%B3%E3%83%88/%E7%AB%AF%E3%81%AB%E8%A7%A6%E3%82%8C%E3%81%9F%E3%81%A8%E3%81%8D%E3%82%92%E5%91%BD%E4%BB%A4%E3%81%97%E3%82%88%E3%81%86.pdf&#34;&gt;端に触れたときを命令しよう.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;odp-形式&#34;&gt;odp 形式&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%83%92%E3%83%B3%E3%83%88/%E7%AB%AF%E3%81%AB%E8%A7%A6%E3%82%8C%E3%81%9F%E3%81%A8%E3%81%8D%E3%82%92%E5%91%BD%E4%BB%A4%E3%81%97%E3%82%88%E3%81%86.odp&#34;&gt;端に触れたときを命令しよう.odp&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;ライセンス&#34;&gt;ライセンス&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://komtmt.files.wordpress.com/2015/04/by-nd.png?w=100&#34; alt=&#34;Cretive Commons BY ND&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-nd/4.0/deed.ja&#34;&gt;BY ND について&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>まちがいさがしゲーム</title>
+      <link>/portfolio/work13/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work13/</guid>
+      <description>&lt;p&gt;キッズプログラミング教室 Gramin で講師（こうし）が小学校におじゃまして一緒（いっしょ）に Scratch ゲームを作った時に使った資料（しりょう）です。&lt;/p&gt;
+
+&lt;p&gt;まちがいさがしゲームです。左の絵と右の絵のまちがっている部分をさがそう！
+まちがっている部分を右の絵の中でクリックしてね。まちがいを全部見つけたらゲームクリアだよ！
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&#39;まちがいさがしゲーム&#39; src=&#39;../../img/portfolio/lets-scratch-game004.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;このゲームであそんでみる&#34;&gt;このゲームであそんでみる&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gramin.jp/lets-scratch-game004-2/&#34;&gt;このゲームであそんでみる&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;このゲームの作り方&#34;&gt;このゲームの作り方&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%81%BE%E3%81%A1%E3%81%8B%E3%82%99%E3%81%84%E3%81%95%E3%81%8B%E3%82%99%E3%81%97%E3%82%B1%E3%82%99%E3%83%BC%E3%83%A0/%E3%81%BE%E3%81%A1%E3%81%8B%E3%82%99%E3%81%84%E3%81%95%E3%81%8B%E3%82%99%E3%81%97%E3%82%B1%E3%82%99%E3%83%BC%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86.pdf&#34;&gt;まちがいさがしゲームを作ろう.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%81%BE%E3%81%A1%E3%81%8B%E3%82%99%E3%81%84%E3%81%95%E3%81%8B%E3%82%99%E3%81%97%E3%82%B1%E3%82%99%E3%83%BC%E3%83%A0/%E3%81%BE%E3%81%A1%E3%81%8B%E3%82%99%E3%81%84%E3%81%95%E3%81%8B%E3%82%99%E3%81%97%E3%82%B1%E3%82%99%E3%83%BC%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86.odp&#34;&gt;まちがいさがしゲームを作ろう.odp&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;このゲームが完成した時のスクリプト&#34;&gt;このゲームが完成した時のスクリプト&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#39;https://github.com/gramin-programming/kids-programming-resource/blob/master/スクラッチクラブ/まちがいさがしゲーム/まちがいさがしゲーム_完成スクリプト.pdf&#39;&gt;まちがいさがしゲーム_完成スクリプト.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#39;https://github.com/gramin-programming/kids-programming-resource/blob/master/スクラッチクラブ/まちがいさがしゲーム/まちがいさがしゲーム_完成スクリプト.odp&#39;&gt;まちがいさがしゲーム_完成スクリプト.odp&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;ライセンス&#34;&gt;ライセンス&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://komtmt.files.wordpress.com/2015/04/by-nd.png?w=100&#34; alt=&#34;Cretive Commons BY ND&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-nd/4.0/deed.ja&#34;&gt;BY ND について&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>オブジェクト指向って何？</title>
+      <link>/portfolio/work8/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work8/</guid>
+      <description>&lt;p&gt;&lt;a href=&#39;https://gramin.jp/online-scratch-class/&#39;&gt;オンラインスクラッチクラス&lt;/a&gt;で作成した資料です。&lt;a href=&#39;https://scratch.mit.edu/&#39;&gt;Scratch&lt;/a&gt; がもともとオブジェクト指向を意識しており、その考え方の説明するために作成しました。
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&#39;オブジェクト指向って何？&#39; src=&#39;../../img/portfolio/オブジェクト指向って何？.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
 
@@ -125,7 +190,7 @@
       <description>&lt;p&gt;Mac で使われるキーボードの記号や特殊なキーの読み方です。
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../../img/portfolio/キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方_mac.png&#34; alt=&#34;キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方_mac&#34; title=&#34;キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方（Mac向け）&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#39;キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方_mac&#39; src=&#39;../../img/portfolio/キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方_mac.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
 
@@ -151,7 +216,7 @@
       <description>&lt;p&gt;Windows で使われるキーボードの記号や特殊なキーの読み方です。
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../../img/portfolio/キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方_windows.png&#34; alt=&#34;キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方_windows&#34; title=&#34;キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方（Windows向け）&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#39;キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方_windows&#39; src=&#39;../../img/portfolio/キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方_windows.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
 
@@ -169,15 +234,71 @@
     </item>
     
     <item>
+      <title>キーボードのキーでジャンプできるようにしよう</title>
+      <link>/portfolio/work21/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work21/</guid>
+      <description>&lt;p&gt;小学校におじゃました時やオンラインスクラッチクラスで授業をするときに使う資料（しりょう）です。&lt;/p&gt;
+
+&lt;p&gt;キーボードのキーでジャンプできるようにする方法をまとめました。
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&#39;キーボードのキーでジャンプできるようにしよう&#39; src=&#39;../../img/portfolio/ref-jump-on-key.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%83%92%E3%83%B3%E3%83%88/%E3%82%AD%E3%83%BC%E3%82%92%E6%8A%BC%E3%81%97%E3%81%9F%E3%82%89%E3%82%B7%E3%82%99%E3%83%A3%E3%83%B3%E3%83%95%E3%82%9A.pdf&#34;&gt;キーを押したらジャンプ.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;odp-形式&#34;&gt;odp 形式&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%83%92%E3%83%B3%E3%83%88/%E3%82%AD%E3%83%BC%E3%82%92%E6%8A%BC%E3%81%97%E3%81%9F%E3%82%89%E3%82%B7%E3%82%99%E3%83%A3%E3%83%B3%E3%83%95%E3%82%9A.odp&#34;&gt;キーを押したらジャンプ.odp&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;ライセンス&#34;&gt;ライセンス&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://komtmt.files.wordpress.com/2015/04/by-nd.png?w=100&#34; alt=&#34;Cretive Commons BY ND&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-nd/4.0/deed.ja&#34;&gt;BY ND について&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>キーボードのキーでスプライトを動かそう</title>
+      <link>/portfolio/work20/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work20/</guid>
+      <description>&lt;p&gt;小学校におじゃました時やオンラインスクラッチクラスで授業をするときに使う資料（しりょう）です。&lt;/p&gt;
+
+&lt;p&gt;キーボードのキーでスプライトを動かす方法をまとめました。
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&#39;キーボードのキーでスプライトを動かそう&#39; src=&#39;../../img/portfolio/ref-move-sprite-on-key.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%83%92%E3%83%B3%E3%83%88/%E3%82%AD%E3%83%BC%E3%82%92%E6%8A%BC%E3%81%97%E3%81%A6%E3%82%B9%E3%83%95%E3%82%9A%E3%83%A9%E3%82%A4%E3%83%88%E3%82%92%E5%8B%95%E3%81%8B%E3%81%9D%E3%81%86.pdf&#34;&gt;キーを押してスプライトを動かそう.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;odp-形式&#34;&gt;odp 形式&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%83%92%E3%83%B3%E3%83%88/%E3%82%AD%E3%83%BC%E3%82%92%E6%8A%BC%E3%81%97%E3%81%A6%E3%82%B9%E3%83%95%E3%82%9A%E3%83%A9%E3%82%A4%E3%83%88%E3%82%92%E5%8B%95%E3%81%8B%E3%81%9D%E3%81%86.odp&#34;&gt;キーを押してスプライトを動かそう.odp&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;ライセンス&#34;&gt;ライセンス&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://komtmt.files.wordpress.com/2015/04/by-nd.png?w=100&#34; alt=&#34;Cretive Commons BY ND&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-nd/4.0/deed.ja&#34;&gt;BY ND について&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>キーボード入力ローマ字表</title>
       <link>/portfolio/work3/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>/portfolio/work3/</guid>
-      <description>&lt;p&gt;Gramin で使っているキーボード入力をする為のローマ字表です。よく使う文字は太字にして全てキーボードと同じように大文字にしています。
+      <description>&lt;p&gt;&lt;a href=&#39;https://gramin.jp&#39;&gt;Gramin&lt;/a&gt; で使っているキーボード入力をする為のローマ字表です。よく使う文字は太字にして全てキーボードと同じように大文字にしています。
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../../img/portfolio/キーボード入力用ローマ字表.png&#34; alt=&#34;キーボード入力用ローマ字表&#34; title=&#34;キーボード入力用ローマ字表&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#39;キーボード入力用ローマ字表&#39; src=&#39;../../img/portfolio/キーボード入力用ローマ字表.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
 
@@ -203,7 +324,7 @@
       <description>&lt;p&gt;Windows で使われるキーボードのキーの一覧と特殊なキーの簡単な説明です。
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../../img/portfolio/キーボード入力表_windows.png&#34; alt=&#34;キーボード入力表_windows&#34; title=&#34;キーボード入力表_windows&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#39;キーボード入力表_windows&#39; src=&#39;../../img/portfolio/キーボード入力表_windows.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
 
@@ -218,6 +339,106 @@
 &lt;p&gt;&lt;img src=&#34;https://komtmt.files.wordpress.com/2015/04/by-sa.png?w=100&#34; alt=&#34;Cretive Commons BY SA&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.ja&#34;&gt;BY SA について&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>コスチュームを足してみよう</title>
+      <link>/portfolio/work16/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work16/</guid>
+      <description>&lt;p&gt;小学校におじゃました時や&lt;a href=&#39;https://gramin.jp/online-scratch-class/&#39;&gt;オンラインスクラッチクラス&lt;/a&gt;で授業をするときに使う資料（しりょう）です。&lt;/p&gt;
+
+&lt;p&gt;コスチュームを足す方法をまとめました。
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&#39;コスチュームを足してみよう&#39; src=&#39;../../img/portfolio/ref-add-costume.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%83%92%E3%83%B3%E3%83%88/%E3%82%B3%E3%82%B9%E3%83%81%E3%83%A5%E3%83%BC%E3%83%A0%E3%82%92%E3%81%9F%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%20.pdf&#34;&gt;コスチュームをたしてみよう .pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;odp-形式&#34;&gt;odp 形式&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%83%92%E3%83%B3%E3%83%88/%E3%82%B3%E3%82%B9%E3%83%81%E3%83%A5%E3%83%BC%E3%83%A0%E3%82%92%E3%81%9F%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%20.odp&#34;&gt;コスチュームをたしてみよう .odp&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;ライセンス&#34;&gt;ライセンス&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://komtmt.files.wordpress.com/2015/04/by-nd.png?w=100&#34; alt=&#34;Cretive Commons BY ND&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-nd/4.0/deed.ja&#34;&gt;BY ND について&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>シューティングゲーム</title>
+      <link>/portfolio/work12/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work12/</guid>
+      <description>&lt;p&gt;&lt;a href=&#39;https://gramin.jp&#39;&gt;キッズプログラミング教室 Gramin&lt;/a&gt; で講師（こうし）が小学校におじゃまして一緒（いっしょ）に Scratch ゲームを作った時に使った資料（しりょう）です。&lt;/p&gt;
+
+&lt;p&gt;ちびっこモンスターにボールを当ててやっつけていくゲームです。30秒以内に何匹（なんびき）たおせるかな？
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&#39;シューティングゲーム&#39; src=&#39;../../img/portfolio/lets-scratch-game003.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;このゲームであそんでみる&#34;&gt;このゲームであそんでみる&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gramin.jp/lets-scratch-game003-2/&#34;&gt;このゲームであそんでみる&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;このゲームの作り方&#34;&gt;このゲームの作り方&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF%E3%82%99%E3%82%B1%E3%82%99%E3%83%BC%E3%83%A0/%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF%E3%82%99%E3%82%B1%E3%82%99%E3%83%BC%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86.pdf&#34;&gt;シューティングゲームを作ろう.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF%E3%82%99%E3%82%B1%E3%82%99%E3%83%BC%E3%83%A0/%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF%E3%82%99%E3%82%B1%E3%82%99%E3%83%BC%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86.odp&#34;&gt;シューティングゲームを作ろう.odp&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;このゲームが完成した時のスクリプト&#34;&gt;このゲームが完成した時のスクリプト&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#39;https://github.com/gramin-programming/kids-programming-resource/blob/master/スクラッチクラブ/シューティングゲーム/シューティングゲーム_完成スクリプト.pdf&#39;&gt;シューティングゲーム_完成スクリプト.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#39;https://github.com/gramin-programming/kids-programming-resource/blob/master/スクラッチクラブ/シューティングゲーム/シューティングゲーム_完成スクリプト.odp&#39;&gt;シューティングゲーム_完成スクリプト.odp&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;ライセンス&#34;&gt;ライセンス&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://komtmt.files.wordpress.com/2015/04/by-nd.png?w=100&#34; alt=&#34;Cretive Commons BY ND&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-nd/4.0/deed.ja&#34;&gt;BY ND について&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ジャンプするゲームの作り方</title>
+      <link>/portfolio/work10/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work10/</guid>
+      <description>&lt;p&gt;&lt;a href=&#39;https://gramin.jp&#39;&gt;キッズプログラミング教室 Gramin&lt;/a&gt; で講師（こうし）が小学校におじゃまして一緒（いっしょ）に Scratch ゲームを作った時に使った資料（しりょう）です。&lt;/p&gt;
+
+&lt;p&gt;コウモリがジャンプするシンプルだけど奥（おく）が深（ふか）いゲームです。
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&#39;ジャンプゲーム&#39; src=&#39;../../img/portfolio/lets-scratch-game001.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;このゲームであそんでみる&#34;&gt;このゲームであそんでみる&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gramin.jp/lets-scratch-game002-2/&#34;&gt;このゲームであそんでみる&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;このゲームの作り方&#34;&gt;このゲームの作り方&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%82%B7%E3%82%99%E3%83%A3%E3%83%B3%E3%83%95%E3%82%9A%E3%81%99%E3%82%8B%E3%82%B1%E3%82%99%E3%83%BC%E3%83%A0/%E3%82%B7%E3%82%99%E3%83%A3%E3%83%B3%E3%83%95%E3%82%9A%E3%81%99%E3%82%8B%E3%82%B1%E3%82%99%E3%83%BC%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86.pdf&#34; title=&#34;ジャンプするゲームを作ろう.pdf&#34;&gt;ジャンプするゲームを作ろう.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%82%B7%E3%82%99%E3%83%A3%E3%83%B3%E3%83%95%E3%82%9A%E3%81%99%E3%82%8B%E3%82%B1%E3%82%99%E3%83%BC%E3%83%A0/%E3%82%B7%E3%82%99%E3%83%A3%E3%83%B3%E3%83%95%E3%82%9A%E3%81%99%E3%82%8B%E3%82%B1%E3%82%99%E3%83%BC%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86.odp&#34; title=&#34;ジャンプするゲームを作ろう.odp&#34;&gt;ジャンプするゲームを作ろう.odp&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;このゲームが完成した時のスクリプト&#34;&gt;このゲームが完成した時のスクリプト&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#39;https://github.com/gramin-programming/kids-programming-resource/blob/master/スクラッチクラブ/ジャンプするゲーム/ジャンプするゲーム_完成スクリプト.pdf&#39;&gt;ジャンプするゲーム_完成スクリプト.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#39;https://github.com/gramin-programming/kids-programming-resource/blob/master/スクラッチクラブ/ジャンプするゲーム/ジャンプするゲーム_完成スクリプト.odp&#39;&gt;ジャンプするゲーム_完成スクリプト.odp&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;ライセンス&#34;&gt;ライセンス&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://komtmt.files.wordpress.com/2015/04/by-nd.png?w=100&#34; alt=&#34;Cretive Commons BY ND&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-nd/4.0/deed.ja&#34;&gt;BY ND について&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
