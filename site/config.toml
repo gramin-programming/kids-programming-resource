@@ -1,6 +1,4 @@
-# for local
-# baseurl = "/"
-baseurl = "/kids-programming-resource/"
+baseurl = "/"
 languageCode = "ja-jp"
 title = "小学生のためのプログラミング教材"
 
@@ -20,9 +18,9 @@ publishdir = "public"
   # Use custom.css for your custom styling
   style = "green"
   description = "小学生向けのプログラミング教室 Gramin"
-  copyright = "&copy;2015 ぐらみん株式会社"
+  copyright = "&copy;2015 <a href='https://gramin.jp'>ぐらみん株式会社</a>"
   sidebarAbout = [
-    "ぐらみん株式会社が運営している キッズプログラミング教室 Gramin（ぐらみん）で授業の時に利用している教材です。",
+    "<a href='https://gramin.jp'>ぐらみん株式会社</a>が運営している キッズプログラミング教室 Gramin（ぐらみん）で授業の時に利用している教材です。ライセンスは CC BY ND と BY SA の２つがあるのでご注意下さい",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -37,12 +35,6 @@ publishdir = "public"
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
   email = "support@gramin.jp"
-
-  # Nav links in the side bar
-  [[params.navlinks]]
-  name = "ぐらみん株式会社"
-  url = "https://gramin.jp"
-
 
   [params.social]
   facebook      = "https://www.facebook.com/gramin.programing"

@@ -9,7 +9,7 @@ weight = 0
 Mac で使われるキーボードのキーの一覧と特殊なキーの簡単な説明です。
 <!--more-->
 
-![キーボード入力表_mac](../../img/portfolio/キーボード入力表_mac.png "キーボード入力表_mac")
+<img alt='キーボード入力表_mac' src='../../img/portfolio/キーボード入力表_mac.png' style='width:100%;'/>
 
 ### pdf 形式
 [キーボード入力表_mac.pdf](https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%AD%E3%83%BC%E3%83%9B%E3%82%99%E3%83%BC%E3%83%88%E3%82%99%E5%85%A5%E5%8A%9B%E8%A1%A8_mac.pdf "キーボード入力表_mac.pdf")

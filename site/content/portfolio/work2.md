@@ -11,7 +11,7 @@ weight = 1
 Windows で使われるキーボードのキーの一覧と特殊なキーの簡単な説明です。
 <!--more-->
 
-![キーボード入力表_windows](../../img/portfolio/キーボード入力表_windows.png "キーボード入力表_windows")
+<img alt='キーボード入力表_windows' src='../../img/portfolio/キーボード入力表_windows.png' style='width:100%;'/>
 
 ### pdf 形式
 [キーボード入力表_windows.pdf](https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%AD%E3%83%BC%E3%83%9B%E3%82%99%E3%83%BC%E3%83%88%E3%82%99%E5%85%A5%E5%8A%9B%E8%A1%A8_windows.pdf "キーボード入力表_windows.pdf")

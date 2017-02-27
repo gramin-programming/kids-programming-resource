@@ -8,10 +8,10 @@ title = "キーボード入力ローマ字表"
 
 weight = 1
 +++
-Gramin で使っているキーボード入力をする為のローマ字表です。よく使う文字は太字にして全てキーボードと同じように大文字にしています。
+<a href='https://gramin.jp'>Gramin</a> で使っているキーボード入力をする為のローマ字表です。よく使う文字は太字にして全てキーボードと同じように大文字にしています。
 <!--more-->
 
-![キーボード入力用ローマ字表](../../img/portfolio/キーボード入力用ローマ字表.png "キーボード入力用ローマ字表")
+<img alt='キーボード入力用ローマ字表' src='../../img/portfolio/キーボード入力用ローマ字表.png' style='width:100%;'/>
 
 ### pdf 形式
 [キーボード入力ローマ字表.pdf](https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%AD%E3%83%BC%E3%83%9B%E3%82%99%E3%83%BC%E3%83%88%E3%82%99%E5%85%A5%E5%8A%9B%E7%94%A8%E3%83%AD%E3%83%BC%E3%83%9E%E5%AD%97%E8%A1%A8.pdf "キーボード入力用ローマ字表.pdf")
