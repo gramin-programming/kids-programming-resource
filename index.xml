@@ -7,8 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy;2015 &lt;a href=&#39;https://gramin.jp&#39;&gt;ぐらみん株式会社&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 24 Mar 2017 18:25:22 +0530</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>アルファベットシューティング！</title>
+      <link>/portfolio/work24/</link>
+      <pubDate>Fri, 24 Mar 2017 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work24/</guid>
+      <description>&lt;p&gt;タイピングに慣れない小学１年生〜小学４年生を対象にしたタイピングゲームです。&lt;/p&gt;
+
+&lt;p&gt;Scratch を使って作ってありますが小学校高学年のお子さんであれば自分でも作ることができます。&lt;/p&gt;
+
+&lt;p&gt;自分で作る場合、Scratch のリンク先からブロックが見れますので参考にして下さい。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;プレイ&#34;&gt;プレイ&lt;/h5&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../img/portfolio/typing-001.png&#34; alt=&#34;typing-001.png&#34; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;ゲームオーバー&#34;&gt;ゲームオーバー&lt;/h5&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../img/portfolio/typing-002.png&#34; alt=&#34;typing-002.png&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;scratch-のサイトへ&#34;&gt;Scratch のサイトへ&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://scratch.mit.edu/projects/151839878/&#34;&gt;https://scratch.mit.edu/projects/151839878/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;ブロックを見るにはこちら&#34;&gt;ブロックを見るにはこちら&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://scratch.mit.edu/projects/151839878/#editor&#34;&gt;https://scratch.mit.edu/projects/151839878/#editor&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Java の抽象クラス・インタフェース・無名クラスを理解しよう</title>
@@ -407,32 +438,6 @@
 &lt;p&gt;&lt;a href=&#39;https://github.com/gramin-programming/kids-programming-resource/blob/master/スクラッチクラブ/ジャンプするゲーム/ジャンプするゲーム_完成スクリプト.pdf&#39;&gt;ジャンプするゲーム_完成スクリプト.pdf&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#39;https://github.com/gramin-programming/kids-programming-resource/blob/master/スクラッチクラブ/ジャンプするゲーム/ジャンプするゲーム_完成スクリプト.odp&#39;&gt;ジャンプするゲーム_完成スクリプト.odp&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;ライセンス&#34;&gt;ライセンス&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://komtmt.files.wordpress.com/2015/04/by-nd.png?w=100&#34; alt=&#34;Cretive Commons BY ND&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-nd/4.0/deed.ja&#34;&gt;BY ND について&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>スクラッチをはじめよう</title>
-      <link>/portfolio/work9/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>/portfolio/work9/</guid>
-      <description>&lt;p&gt;&lt;a href=&#39;https://scratch.mit.edu/&#39;&gt;Scratch&lt;/a&gt; ってなに？、画面の紹介、チュートリアル（ダンスしよう）、作品の保存方法、作品を開く方法を紹介します。これは Scratch バージョン 1.4 の時のものになります。
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;スクラッチをはじめよう&#39; src=&#39;../../img/portfolio/lets-start-scratch.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%92%E3%81%AF%E3%81%97%E3%82%99%E3%82%81%E3%82%88%E3%81%86_scratch1.4.pdf&#34; title=&#34;スクラッチをはじめよう_scratch1.4.pdf&#34;&gt;スクラッチをはじめよう_scratch1.4.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;odp-形式&#34;&gt;odp 形式&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%92%E3%81%AF%E3%81%97%E3%82%99%E3%82%81%E3%82%88%E3%81%86_scratch1.4.odp&#34; title=&#34;スクラッチをはじめよう_scratch1.4.odp&#34;&gt;スクラッチをはじめよう_scratch1.4.odp&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;ライセンス&#34;&gt;ライセンス&lt;/h3&gt;
 
