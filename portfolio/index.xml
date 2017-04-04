@@ -37,6 +37,121 @@
     </item>
     
     <item>
+      <title>バブルソートを説明する Scratch アプリ</title>
+      <link>/portfolio/work26/</link>
+      <pubDate>Tue, 04 Apr 2017 22:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work26/</guid>
+      <description>&lt;p&gt;オンラインスクラッチクラス・ぐらみんこーどでバブルソートがどんなものなのかをシンプルに説明した Scratch アプリです。&lt;/p&gt;
+
+&lt;p&gt;バブルソートはイメージで説明するのがイチバン！！ということで作りました。&lt;/p&gt;
+
+&lt;p&gt;このアプリは説明しかしていなそうですが実際にプログラムの中でバブルソートもしています。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;イメージ&#34;&gt;イメージ&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/portfolio/bubble-sort-image.png&#34; alt=&#34;イメージ&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;scratch-のサイトへ&#34;&gt;Scratch のサイトへ&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://scratch.mit.edu/projects/150805315/&#34;&gt;https://scratch.mit.edu/projects/150805315/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;ブロックを見るにはこちら&#34;&gt;ブロックを見るにはこちら&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://scratch.mit.edu/projects/150805315/#editor&#34;&gt;https://scratch.mit.edu/projects/150805315/#editor&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>小学校・中学校で習った漢字かどうかをチェックするツール</title>
+      <link>/portfolio/work25/</link>
+      <pubDate>Tue, 04 Apr 2017 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work25/</guid>
+      <description>&lt;p&gt;日本の小学生・中学生が使う常用漢字以外の漢字が使われていないかをチェックするツールです。&lt;/p&gt;
+
+&lt;p&gt;学校や塾の先生や子どもを持つご両親向けに作成しています。&lt;/p&gt;
+
+&lt;p&gt;コマンドで実行する必要がありますが、今のところ Microsoft word やテキスト文章、OpenOffice(LibreOffice Impress)のドキュメントに対して使うことができます。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gramin-programming/kidskanjichecker/master/kids-kanji-checker-image.png&#34; alt=&#34;イメージ&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;インストール&#34;&gt;インストール&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kidskanjichecker/releases&#34;&gt;リリース&lt;/a&gt; からダウンロードして実行するだけです。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;kids-kanji-checker_darwin_386: Mac 32bit 向け&lt;/li&gt;
+&lt;li&gt;kids-kanji-checker_darwin_amd64: Mac 64bit 向け。最近の Mac であればこれを使って下さい&lt;/li&gt;
+&lt;li&gt;kids-kanji-checker_linux_386: Linux 32bit 向け&lt;/li&gt;
+&lt;li&gt;kids-kanji-checker_linux_amd64: Linux 64bit 向け。最近のデスクトップ Linux であればこれを使って下さい&lt;/li&gt;
+&lt;li&gt;kids-kanji-checker_linux_arm: Linux ARM 向け。&lt;/li&gt;
+&lt;li&gt;kids-kanji-checker_windows_386.exe: Windows 32bit 向け。&lt;/li&gt;
+&lt;li&gt;kids-kanji-checker_windows_amd64.exe: Windows 64bit 向け。最近の Windows であればこれを使って下さい&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;ダウンロード後に kids-kanji-checker 等に名前を変えても問題ありません。&lt;/p&gt;
+
+&lt;p&gt;この後、Linux・Mac 環境では権限を付与します。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ chmod 0755 kids-kanji-checker_darwin_amd64
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;どこからでも実行したい場合は /usr/local/bin あたりに移動して下さい。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ sudo mv -v kids-kanji-checker_darwin_amd64 /usr/local/bin/.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&#34;使い方&#34;&gt;使い方&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;Usage: ./kids-kanji-checker_linux_amd64 [OPTIONS] argument ...
+  -fileType string
+        ファイルタイプ(odp か docx のみ)。基本は拡張子で判断
+  -input-file string
+        Input file
+  -is-quiet
+        余計な表示をしない
+  -max-year int
+        何年生までの常用漢字をチェックするか（中学生以上は 7） (default 3)
+  -no-color
+        チェック時の Color 表示をやめるか
+  -stdin
+        stdin
+  -version
+        Version
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&#34;利用例&#34;&gt;利用例&lt;/h4&gt;
+
+&lt;p&gt;この例ではリリース後に kids-kanji-checker というファイルに名前を変更しています。&lt;/p&gt;
+
+&lt;h5 id=&#34;テキスト文書に対して-3年生までに習わない漢字を着色して表示する&#34;&gt;テキスト文書に対して 3年生までに習わない漢字を着色して表示する&lt;/h5&gt;
+
+&lt;pre&gt;&lt;code&gt;$ ./kids-kanji-checker -input-file sample/sample.txt -max-year 3
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;3年生までに習わない漢字が着色されて表示されます&lt;/p&gt;
+
+&lt;h5 id=&#34;microsoft-word-docx-文書に対して小学-1年生までに習わない漢字を着色して表示する&#34;&gt;Microsoft Word（Docx）文書に対して小学 1年生までに習わない漢字を着色して表示する&lt;/h5&gt;
+
+&lt;pre&gt;&lt;code&gt;$ ./kids-kanji-checker -input-file sample/sample.docx -max-year 1
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h5 id=&#34;中学までに習わない漢字を標準入力から受け取って表示する&#34;&gt;中学までに習わない漢字を標準入力から受け取って表示する&lt;/h5&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cat sample/sample.docx | ./kids-kanji-checker -stdin -max-year 7
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h5 id=&#34;着色がサポートされていない環境で-libreoffice-impress-文書に対して小学-3年生-max-yearを指定しない場合はこうなります-までに習わない漢字を表示する&#34;&gt;着色がサポートされていない環境で LibreOffice Impress 文書に対して小学 3年生（-max-yearを指定しない場合はこうなります）までに習わない漢字を表示する&lt;/h5&gt;
+
+&lt;pre&gt;&lt;code&gt;$ ./kids-kanji-checker -input-file sample/sample.odp -no-color
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
       <title>アルファベットシューティング！</title>
       <link>/portfolio/work24/</link>
       <pubDate>Fri, 24 Mar 2017 18:25:22 +0530</pubDate>
@@ -370,70 +485,6 @@
 &lt;p&gt;&lt;img src=&#34;https://komtmt.files.wordpress.com/2015/04/by-sa.png?w=100&#34; alt=&#34;Cretive Commons BY SA&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.ja&#34;&gt;BY SA について&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>コスチュームを足してみよう</title>
-      <link>/portfolio/work16/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>/portfolio/work16/</guid>
-      <description>&lt;p&gt;小学校におじゃました時や&lt;a href=&#39;https://gramin.jp/online-scratch-class/&#39;&gt;オンラインスクラッチクラス&lt;/a&gt;で授業をするときに使う資料（しりょう）です。&lt;/p&gt;
-
-&lt;p&gt;コスチュームを足す方法をまとめました。
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;コスチュームを足してみよう&#39; src=&#39;../../img/portfolio/ref-add-costume.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%83%92%E3%83%B3%E3%83%88/%E3%82%B3%E3%82%B9%E3%83%81%E3%83%A5%E3%83%BC%E3%83%A0%E3%82%92%E3%81%9F%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%20.pdf&#34;&gt;コスチュームをたしてみよう .pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;odp-形式&#34;&gt;odp 形式&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%83%92%E3%83%B3%E3%83%88/%E3%82%B3%E3%82%B9%E3%83%81%E3%83%A5%E3%83%BC%E3%83%A0%E3%82%92%E3%81%9F%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%20.odp&#34;&gt;コスチュームをたしてみよう .odp&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;ライセンス&#34;&gt;ライセンス&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://komtmt.files.wordpress.com/2015/04/by-nd.png?w=100&#34; alt=&#34;Cretive Commons BY ND&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-nd/4.0/deed.ja&#34;&gt;BY ND について&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>シューティングゲーム</title>
-      <link>/portfolio/work12/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>/portfolio/work12/</guid>
-      <description>&lt;p&gt;&lt;a href=&#39;https://gramin.jp&#39;&gt;キッズプログラミング教室 Gramin&lt;/a&gt; で講師（こうし）が小学校におじゃまして一緒（いっしょ）に Scratch ゲームを作った時に使った資料（しりょう）です。&lt;/p&gt;
-
-&lt;p&gt;ちびっこモンスターにボールを当ててやっつけていくゲームです。30秒以内に何匹（なんびき）たおせるかな？
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;シューティングゲーム&#39; src=&#39;../../img/portfolio/lets-scratch-game003.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;このゲームであそんでみる&#34;&gt;このゲームであそんでみる&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gramin.jp/lets-scratch-game003-2/&#34;&gt;このゲームであそんでみる&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;このゲームの作り方&#34;&gt;このゲームの作り方&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF%E3%82%99%E3%82%B1%E3%82%99%E3%83%BC%E3%83%A0/%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF%E3%82%99%E3%82%B1%E3%82%99%E3%83%BC%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86.pdf&#34;&gt;シューティングゲームを作ろう.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF%E3%82%99%E3%82%B1%E3%82%99%E3%83%BC%E3%83%A0/%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AF%E3%82%99%E3%82%B1%E3%82%99%E3%83%BC%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86.odp&#34;&gt;シューティングゲームを作ろう.odp&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;このゲームが完成した時のスクリプト&#34;&gt;このゲームが完成した時のスクリプト&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#39;https://github.com/gramin-programming/kids-programming-resource/blob/master/スクラッチクラブ/シューティングゲーム/シューティングゲーム_完成スクリプト.pdf&#39;&gt;シューティングゲーム_完成スクリプト.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#39;https://github.com/gramin-programming/kids-programming-resource/blob/master/スクラッチクラブ/シューティングゲーム/シューティングゲーム_完成スクリプト.odp&#39;&gt;シューティングゲーム_完成スクリプト.odp&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;ライセンス&#34;&gt;ライセンス&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://komtmt.files.wordpress.com/2015/04/by-nd.png?w=100&#34; alt=&#34;Cretive Commons BY ND&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-nd/4.0/deed.ja&#34;&gt;BY ND について&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
