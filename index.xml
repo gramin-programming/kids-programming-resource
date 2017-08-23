@@ -2,13 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>小学生のためのプログラミング教材</title>
-    <link>/index.xml</link>
+    <link>/</link>
     <description>Recent content on 小学生のためのプログラミング教材</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy;2015 &lt;a href=&#39;https://gramin.jp&#39;&gt;ぐらみん株式会社&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 04 Apr 2017 22:25:22 +0530</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Aug 2017 21:49:02 +0900</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2進数を手を使って数える方法を説明する Scratch アプリ</title>
+      <link>/portfolio/work27/</link>
+      <pubDate>Wed, 23 Aug 2017 21:49:02 +0900</pubDate>
+      
+      <guid>/portfolio/work27/</guid>
+      <description>&lt;p&gt;オンラインスクラッチクラス・ぐらみんこーどでは 2進数がどんなものかを説明しています。&lt;/p&gt;
+
+&lt;p&gt;この Scratch アプリは 2進数を指で数える方法を説明したものです。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>バブルソートを説明する Scratch アプリ</title>
@@ -22,19 +37,7 @@
 
 &lt;p&gt;このアプリは説明しかしていなそうですが実際にプログラムの中でバブルソートもしています。&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;イメージ&#34;&gt;イメージ&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/portfolio/bubble-sort-image.png&#34; alt=&#34;イメージ&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;scratch-のサイトへ&#34;&gt;Scratch のサイトへ&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://scratch.mit.edu/projects/150805315/&#34;&gt;https://scratch.mit.edu/projects/150805315/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;ブロックを見るにはこちら&#34;&gt;ブロックを見るにはこちら&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://scratch.mit.edu/projects/150805315/#editor&#34;&gt;https://scratch.mit.edu/projects/150805315/#editor&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -49,80 +52,7 @@
 
 &lt;p&gt;コマンドで実行する必要がありますが、今のところ Microsoft word やテキスト文章、OpenOffice(LibreOffice Impress)のドキュメントに対して使うことができます。&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gramin-programming/kidskanjichecker/master/kids-kanji-checker-image.png&#34; alt=&#34;イメージ&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;インストール&#34;&gt;インストール&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kidskanjichecker/releases&#34;&gt;リリース&lt;/a&gt; からダウンロードして実行するだけです。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;kids-kanji-checker_darwin_386: Mac 32bit 向け&lt;/li&gt;
-&lt;li&gt;kids-kanji-checker_darwin_amd64: Mac 64bit 向け。最近の Mac であればこれを使って下さい&lt;/li&gt;
-&lt;li&gt;kids-kanji-checker_linux_386: Linux 32bit 向け&lt;/li&gt;
-&lt;li&gt;kids-kanji-checker_linux_amd64: Linux 64bit 向け。最近のデスクトップ Linux であればこれを使って下さい&lt;/li&gt;
-&lt;li&gt;kids-kanji-checker_linux_arm: Linux ARM 向け。&lt;/li&gt;
-&lt;li&gt;kids-kanji-checker_windows_386.exe: Windows 32bit 向け。&lt;/li&gt;
-&lt;li&gt;kids-kanji-checker_windows_amd64.exe: Windows 64bit 向け。最近の Windows であればこれを使って下さい&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;ダウンロード後に kids-kanji-checker 等に名前を変えても問題ありません。&lt;/p&gt;
-
-&lt;p&gt;この後、Linux・Mac 環境では権限を付与します。&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;$ chmod 0755 kids-kanji-checker_darwin_amd64
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;どこからでも実行したい場合は /usr/local/bin あたりに移動して下さい。&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;$ sudo mv -v kids-kanji-checker_darwin_amd64 /usr/local/bin/.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h4 id=&#34;使い方&#34;&gt;使い方&lt;/h4&gt;
-
-&lt;pre&gt;&lt;code&gt;Usage: ./kids-kanji-checker_linux_amd64 [OPTIONS] argument ...
-  -fileType string
-        ファイルタイプ(odp か docx のみ)。基本は拡張子で判断
-  -input-file string
-        Input file
-  -is-quiet
-        余計な表示をしない
-  -max-year int
-        何年生までの常用漢字をチェックするか（中学生以上は 7） (default 3)
-  -no-color
-        チェック時の Color 表示をやめるか
-  -stdin
-        stdin
-  -version
-        Version
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h4 id=&#34;利用例&#34;&gt;利用例&lt;/h4&gt;
-
-&lt;p&gt;この例ではリリース後に kids-kanji-checker というファイルに名前を変更しています。&lt;/p&gt;
-
-&lt;h5 id=&#34;テキスト文書に対して-3年生までに習わない漢字を着色して表示する&#34;&gt;テキスト文書に対して 3年生までに習わない漢字を着色して表示する&lt;/h5&gt;
-
-&lt;pre&gt;&lt;code&gt;$ ./kids-kanji-checker -input-file sample/sample.txt -max-year 3
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;3年生までに習わない漢字が着色されて表示されます&lt;/p&gt;
-
-&lt;h5 id=&#34;microsoft-word-docx-文書に対して小学-1年生までに習わない漢字を着色して表示する&#34;&gt;Microsoft Word（Docx）文書に対して小学 1年生までに習わない漢字を着色して表示する&lt;/h5&gt;
-
-&lt;pre&gt;&lt;code&gt;$ ./kids-kanji-checker -input-file sample/sample.docx -max-year 1
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h5 id=&#34;中学までに習わない漢字を標準入力から受け取って表示する&#34;&gt;中学までに習わない漢字を標準入力から受け取って表示する&lt;/h5&gt;
-
-&lt;pre&gt;&lt;code&gt;$ cat sample/sample.docx | ./kids-kanji-checker -stdin -max-year 7
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h5 id=&#34;着色がサポートされていない環境で-libreoffice-impress-文書に対して小学-3年生-max-yearを指定しない場合はこうなります-までに習わない漢字を表示する&#34;&gt;着色がサポートされていない環境で LibreOffice Impress 文書に対して小学 3年生（-max-yearを指定しない場合はこうなります）までに習わない漢字を表示する&lt;/h5&gt;
-
-&lt;pre&gt;&lt;code&gt;$ ./kids-kanji-checker -input-file sample/sample.odp -no-color
-&lt;/code&gt;&lt;/pre&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -137,23 +67,7 @@
 
 &lt;p&gt;自分で作る場合、Scratch のリンク先からブロックが見れますので参考にして下さい。&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;プレイ&#34;&gt;プレイ&lt;/h5&gt;
-
-&lt;p&gt;&lt;img src=&#34;../../img/portfolio/typing-001.png&#34; alt=&#34;typing-001.png&#34; /&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;ゲームオーバー&#34;&gt;ゲームオーバー&lt;/h5&gt;
-
-&lt;p&gt;&lt;img src=&#34;../../img/portfolio/typing-002.png&#34; alt=&#34;typing-002.png&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;scratch-のサイトへ&#34;&gt;Scratch のサイトへ&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://scratch.mit.edu/projects/151839878/&#34;&gt;https://scratch.mit.edu/projects/151839878/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;ブロックを見るにはこちら&#34;&gt;ブロックを見るにはこちら&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://scratch.mit.edu/projects/151839878/#editor&#34;&gt;https://scratch.mit.edu/projects/151839878/#editor&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -165,23 +79,7 @@
       <description>&lt;p&gt;キッズプログラミング教室 Gramin で&lt;a href=&#39;https://gramin.jp/class/&#39;&gt;スマートフォンアプリ開発クラス（2017年3月閉講）&lt;/a&gt;向けに作成した資料です。&lt;/p&gt;
 
 &lt;p&gt;Java で抽象クラス・インタフェースの理解に苦しむ方を対象にしています。身近な例（哺乳類・爬虫類）を使って抽象クラス・インタフェースの使い道を簡単に説明し、無名クラスについても簡単に触れています。
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;Java の抽象クラス・インタフェース・無名クラスを理解しよう&#39; src=&#39;../../img/portfolio/Java の抽象クラス・インタフェース・無名クラスを理解しよう.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/Java%20%E3%81%AE%E6%8A%BD%E8%B1%A1%E3%82%AF%E3%83%A9%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9%E3%83%BB%E7%84%A1%E5%90%8D%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%92%E7%90%86%E8%A7%A3%E3%81%97%E3%82%88%E3%81%86.pdf&#34; title=&#34;Java の抽象クラス・インタフェース・無名クラスを理解しよう.pdf&#34;&gt;Java の抽象クラス・インタフェース・無名クラスを理解しよう.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;odp-形式&#34;&gt;odp 形式&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/Java%20%E3%81%AE%E6%8A%BD%E8%B1%A1%E3%82%AF%E3%83%A9%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9%E3%83%BB%E7%84%A1%E5%90%8D%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%92%E7%90%86%E8%A7%A3%E3%81%97%E3%82%88%E3%81%86.odp&#34; title=&#34;Java の抽象クラス・インタフェース・無名クラスを理解しよう.odp&#34;&gt;Java の抽象クラス・インタフェース・無名クラスを理解しよう.odp&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;ライセンス&#34;&gt;ライセンス&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://komtmt.files.wordpress.com/2015/04/by-sa.png?w=100&#34; alt=&#34;Cretive Commons BY SA&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.ja&#34;&gt;BY SA について&lt;/a&gt;&lt;/p&gt;</description>
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -191,23 +89,7 @@
       
       <guid>/portfolio/work7/</guid>
       <description>&lt;p&gt;&lt;a href=&#39;https://gramin.jp/class/&#39;&gt;スマートフォンアプリ開発クラス（2017年3月閉講）&lt;/a&gt;では &lt;a href=&#39;https://linuxmint.com/&#39;&gt;Linux Mint&lt;/a&gt; を使って Java プログラミングをしています。その上でコマンドを使う機会がありますがその際に利用している資料です。
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;基本コマンド集&#39; src=&#39;../../img/portfolio/基本コマンド集.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E5%9F%BA%E6%9C%AC%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%88%E3%82%99%E9%9B%86.pdf&#34; title=&#34;基本コマンド集.pdf&#34;&gt;基本コマンド集.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;svg-形式&#34;&gt;svg 形式&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E5%9F%BA%E6%9C%AC%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%88%E3%82%99%E9%9B%86.svg&#34; title=&#34;基本コマンド集.svg&#34;&gt;基本コマンド集.svg&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;ライセンス&#34;&gt;ライセンス&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://komtmt.files.wordpress.com/2015/04/by-sa.png?w=100&#34; alt=&#34;Cretive Commons BY SA&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.ja&#34;&gt;BY SA について&lt;/a&gt;&lt;/p&gt;</description>
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -219,23 +101,7 @@
       <description>&lt;p&gt;小学校におじゃました時や&lt;a href=&#39;https://gramin.jp/online-scratch-class/&#39;&gt;オンラインスクラッチクラス&lt;/a&gt;で授業をするときに使う資料（しりょう）です。&lt;/p&gt;
 
 &lt;p&gt;「端に触れたとき」を命令する方法をまとめました。
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;「端に触れたとき」を命令しよう&#39; src=&#39;../../img/portfolio/ref-touch-edge.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%83%92%E3%83%B3%E3%83%88/%E7%AB%AF%E3%81%AB%E8%A7%A6%E3%82%8C%E3%81%9F%E3%81%A8%E3%81%8D%E3%82%92%E5%91%BD%E4%BB%A4%E3%81%97%E3%82%88%E3%81%86.pdf&#34;&gt;端に触れたときを命令しよう.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;odp-形式&#34;&gt;odp 形式&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%83%92%E3%83%B3%E3%83%88/%E7%AB%AF%E3%81%AB%E8%A7%A6%E3%82%8C%E3%81%9F%E3%81%A8%E3%81%8D%E3%82%92%E5%91%BD%E4%BB%A4%E3%81%97%E3%82%88%E3%81%86.odp&#34;&gt;端に触れたときを命令しよう.odp&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;ライセンス&#34;&gt;ライセンス&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://komtmt.files.wordpress.com/2015/04/by-nd.png?w=100&#34; alt=&#34;Cretive Commons BY ND&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-nd/4.0/deed.ja&#34;&gt;BY ND について&lt;/a&gt;&lt;/p&gt;</description>
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -248,31 +114,7 @@
 
 &lt;p&gt;まちがいさがしゲームです。左の絵と右の絵のまちがっている部分をさがそう！
 まちがっている部分を右の絵の中でクリックしてね。まちがいを全部見つけたらゲームクリアだよ！
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;まちがいさがしゲーム&#39; src=&#39;../../img/portfolio/lets-scratch-game004.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;このゲームであそんでみる&#34;&gt;このゲームであそんでみる&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gramin.jp/lets-scratch-game004-2/&#34;&gt;このゲームであそんでみる&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;このゲームの作り方&#34;&gt;このゲームの作り方&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%81%BE%E3%81%A1%E3%81%8B%E3%82%99%E3%81%84%E3%81%95%E3%81%8B%E3%82%99%E3%81%97%E3%82%B1%E3%82%99%E3%83%BC%E3%83%A0/%E3%81%BE%E3%81%A1%E3%81%8B%E3%82%99%E3%81%84%E3%81%95%E3%81%8B%E3%82%99%E3%81%97%E3%82%B1%E3%82%99%E3%83%BC%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86.pdf&#34;&gt;まちがいさがしゲームを作ろう.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%81%BE%E3%81%A1%E3%81%8B%E3%82%99%E3%81%84%E3%81%95%E3%81%8B%E3%82%99%E3%81%97%E3%82%B1%E3%82%99%E3%83%BC%E3%83%A0/%E3%81%BE%E3%81%A1%E3%81%8B%E3%82%99%E3%81%84%E3%81%95%E3%81%8B%E3%82%99%E3%81%97%E3%82%B1%E3%82%99%E3%83%BC%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86.odp&#34;&gt;まちがいさがしゲームを作ろう.odp&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;このゲームが完成した時のスクリプト&#34;&gt;このゲームが完成した時のスクリプト&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#39;https://github.com/gramin-programming/kids-programming-resource/blob/master/スクラッチクラブ/まちがいさがしゲーム/まちがいさがしゲーム_完成スクリプト.pdf&#39;&gt;まちがいさがしゲーム_完成スクリプト.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#39;https://github.com/gramin-programming/kids-programming-resource/blob/master/スクラッチクラブ/まちがいさがしゲーム/まちがいさがしゲーム_完成スクリプト.odp&#39;&gt;まちがいさがしゲーム_完成スクリプト.odp&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;ライセンス&#34;&gt;ライセンス&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://komtmt.files.wordpress.com/2015/04/by-nd.png?w=100&#34; alt=&#34;Cretive Commons BY ND&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-nd/4.0/deed.ja&#34;&gt;BY ND について&lt;/a&gt;&lt;/p&gt;</description>
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -282,23 +124,7 @@
       
       <guid>/portfolio/work8/</guid>
       <description>&lt;p&gt;&lt;a href=&#39;https://gramin.jp/online-scratch-class/&#39;&gt;オンラインスクラッチクラス&lt;/a&gt;で作成した資料です。&lt;a href=&#39;https://scratch.mit.edu/&#39;&gt;Scratch&lt;/a&gt; がもともとオブジェクト指向を意識しており、その考え方の説明するために作成しました。
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;オブジェクト指向って何？&#39; src=&#39;../../img/portfolio/オブジェクト指向って何？.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%AA%E3%83%95%E3%82%99%E3%82%B7%E3%82%99%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F.pdf&#34; title=&#34;オブジェクト指向って何？.pdf&#34;&gt;オブジェクト指向って何？.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;odp-形式&#34;&gt;odp 形式&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%AA%E3%83%95%E3%82%99%E3%82%B7%E3%82%99%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F.odp&#34; title=&#34;オブジェクト指向って何？.odp&#34;&gt;オブジェクト指向って何？.odp&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;ライセンス&#34;&gt;ライセンス&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://komtmt.files.wordpress.com/2015/04/by-sa.png?w=100&#34; alt=&#34;Cretive Commons BY SA&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.ja&#34;&gt;BY SA について&lt;/a&gt;&lt;/p&gt;</description>
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -308,23 +134,7 @@
       
       <guid>/portfolio/work4/</guid>
       <description>&lt;p&gt;Mac で使われるキーボードの記号や特殊なキーの読み方です。
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方_mac&#39; src=&#39;../../img/portfolio/キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方_mac.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%AD%E3%83%BC%E3%83%9B%E3%82%99%E3%83%BC%E3%83%88%E3%82%99%E3%81%A8%E8%A8%98%E5%8F%B7%EF%BC%88%E3%81%8D%E3%81%93%E3%82%99%E3%81%86%EF%BC%89%E3%83%BB%E7%89%B9%E6%AE%8A%EF%BC%88%E3%81%A8%E3%81%8F%E3%81%97%E3%82%85%EF%BC%89%E3%82%AD%E3%83%BC%E3%81%AE%E8%AA%AD%E3%81%BF%E6%96%B9_mac.pdf&#34; title=&#34;キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方_mac.pdf&#34;&gt;キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方_mac.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;svg-形式&#34;&gt;svg 形式&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%AD%E3%83%BC%E3%83%9B%E3%82%99%E3%83%BC%E3%83%88%E3%82%99%E3%81%A8%E8%A8%98%E5%8F%B7%EF%BC%88%E3%81%8D%E3%81%93%E3%82%99%E3%81%86%EF%BC%89%E3%83%BB%E7%89%B9%E6%AE%8A%EF%BC%88%E3%81%A8%E3%81%8F%E3%81%97%E3%82%85%EF%BC%89%E3%82%AD%E3%83%BC%E3%81%AE%E8%AA%AD%E3%81%BF%E6%96%B9.svg&#34; title=&#34;キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方.svg&#34;&gt;キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方.svg&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;ライセンス&#34;&gt;ライセンス&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://komtmt.files.wordpress.com/2015/04/by-sa.png?w=100&#34; alt=&#34;Cretive Commons BY SA&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.ja&#34;&gt;BY SA について&lt;/a&gt;&lt;/p&gt;</description>
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -334,23 +144,7 @@
       
       <guid>/portfolio/work5/</guid>
       <description>&lt;p&gt;Windows で使われるキーボードの記号や特殊なキーの読み方です。
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方_windows&#39; src=&#39;../../img/portfolio/キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方_windows.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%AD%E3%83%BC%E3%83%9B%E3%82%99%E3%83%BC%E3%83%88%E3%82%99%E3%81%A8%E8%A8%98%E5%8F%B7%EF%BC%88%E3%81%8D%E3%81%93%E3%82%99%E3%81%86%EF%BC%89%E3%83%BB%E7%89%B9%E6%AE%8A%EF%BC%88%E3%81%A8%E3%81%8F%E3%81%97%E3%82%85%EF%BC%89%E3%82%AD%E3%83%BC%E3%81%AE%E8%AA%AD%E3%81%BF%E6%96%B9_windows.pdf&#34; title=&#34;キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方_windows.pdf&#34;&gt;キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方_windows.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;svg-形式&#34;&gt;svg 形式&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%AD%E3%83%BC%E3%83%9B%E3%82%99%E3%83%BC%E3%83%88%E3%82%99%E3%81%A8%E8%A8%98%E5%8F%B7%EF%BC%88%E3%81%8D%E3%81%93%E3%82%99%E3%81%86%EF%BC%89%E3%83%BB%E7%89%B9%E6%AE%8A%EF%BC%88%E3%81%A8%E3%81%8F%E3%81%97%E3%82%85%EF%BC%89%E3%82%AD%E3%83%BC%E3%81%AE%E8%AA%AD%E3%81%BF%E6%96%B9.svg&#34; title=&#34;キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方.svg&#34;&gt;キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方.svg&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;ライセンス&#34;&gt;ライセンス&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://komtmt.files.wordpress.com/2015/04/by-sa.png?w=100&#34; alt=&#34;Cretive Commons BY SA&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.ja&#34;&gt;BY SA について&lt;/a&gt;&lt;/p&gt;</description>
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -362,23 +156,7 @@
       <description>&lt;p&gt;小学校におじゃました時やオンラインスクラッチクラスで授業をするときに使う資料（しりょう）です。&lt;/p&gt;
 
 &lt;p&gt;キーボードのキーでジャンプできるようにする方法をまとめました。
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;キーボードのキーでジャンプできるようにしよう&#39; src=&#39;../../img/portfolio/ref-jump-on-key.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%83%92%E3%83%B3%E3%83%88/%E3%82%AD%E3%83%BC%E3%82%92%E6%8A%BC%E3%81%97%E3%81%9F%E3%82%89%E3%82%B7%E3%82%99%E3%83%A3%E3%83%B3%E3%83%95%E3%82%9A.pdf&#34;&gt;キーを押したらジャンプ.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;odp-形式&#34;&gt;odp 形式&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%83%92%E3%83%B3%E3%83%88/%E3%82%AD%E3%83%BC%E3%82%92%E6%8A%BC%E3%81%97%E3%81%9F%E3%82%89%E3%82%B7%E3%82%99%E3%83%A3%E3%83%B3%E3%83%95%E3%82%9A.odp&#34;&gt;キーを押したらジャンプ.odp&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;ライセンス&#34;&gt;ライセンス&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://komtmt.files.wordpress.com/2015/04/by-nd.png?w=100&#34; alt=&#34;Cretive Commons BY ND&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-nd/4.0/deed.ja&#34;&gt;BY ND について&lt;/a&gt;&lt;/p&gt;</description>
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -390,23 +168,7 @@
       <description>&lt;p&gt;小学校におじゃました時やオンラインスクラッチクラスで授業をするときに使う資料（しりょう）です。&lt;/p&gt;
 
 &lt;p&gt;キーボードのキーでスプライトを動かす方法をまとめました。
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;キーボードのキーでスプライトを動かそう&#39; src=&#39;../../img/portfolio/ref-move-sprite-on-key.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%83%92%E3%83%B3%E3%83%88/%E3%82%AD%E3%83%BC%E3%82%92%E6%8A%BC%E3%81%97%E3%81%A6%E3%82%B9%E3%83%95%E3%82%9A%E3%83%A9%E3%82%A4%E3%83%88%E3%82%92%E5%8B%95%E3%81%8B%E3%81%9D%E3%81%86.pdf&#34;&gt;キーを押してスプライトを動かそう.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;odp-形式&#34;&gt;odp 形式&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%83%92%E3%83%B3%E3%83%88/%E3%82%AD%E3%83%BC%E3%82%92%E6%8A%BC%E3%81%97%E3%81%A6%E3%82%B9%E3%83%95%E3%82%9A%E3%83%A9%E3%82%A4%E3%83%88%E3%82%92%E5%8B%95%E3%81%8B%E3%81%9D%E3%81%86.odp&#34;&gt;キーを押してスプライトを動かそう.odp&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;ライセンス&#34;&gt;ライセンス&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://komtmt.files.wordpress.com/2015/04/by-nd.png?w=100&#34; alt=&#34;Cretive Commons BY ND&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-nd/4.0/deed.ja&#34;&gt;BY ND について&lt;/a&gt;&lt;/p&gt;</description>
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -416,23 +178,7 @@
       
       <guid>/portfolio/work3/</guid>
       <description>&lt;p&gt;&lt;a href=&#39;https://gramin.jp&#39;&gt;Gramin&lt;/a&gt; で使っているキーボード入力をする為のローマ字表です。よく使う文字は太字にして全てキーボードと同じように大文字にしています。
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;キーボード入力用ローマ字表&#39; src=&#39;../../img/portfolio/キーボード入力用ローマ字表.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%AD%E3%83%BC%E3%83%9B%E3%82%99%E3%83%BC%E3%83%88%E3%82%99%E5%85%A5%E5%8A%9B%E7%94%A8%E3%83%AD%E3%83%BC%E3%83%9E%E5%AD%97%E8%A1%A8.pdf&#34; title=&#34;キーボード入力用ローマ字表.pdf&#34;&gt;キーボード入力ローマ字表.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;svg-形式&#34;&gt;svg 形式&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%AD%E3%83%BC%E3%83%9B%E3%82%99%E3%83%BC%E3%83%88%E3%82%99%E5%85%A5%E5%8A%9B%E7%94%A8%E3%83%AD%E3%83%BC%E3%83%9E%E5%AD%97%E8%A1%A8.svg&#34; title=&#34;キーボード入力用ローマ字表.svg&#34;&gt;キーボード入力ローマ字表.svg&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;ライセンス&#34;&gt;ライセンス&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://komtmt.files.wordpress.com/2015/04/by-sa.png?w=100&#34; alt=&#34;Cretive Commons BY SA&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.ja&#34;&gt;BY SA について&lt;/a&gt;&lt;/p&gt;</description>
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -442,23 +188,7 @@
       
       <guid>/portfolio/work2/</guid>
       <description>&lt;p&gt;Windows で使われるキーボードのキーの一覧と特殊なキーの簡単な説明です。
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#39;キーボード入力表_windows&#39; src=&#39;../../img/portfolio/キーボード入力表_windows.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%AD%E3%83%BC%E3%83%9B%E3%82%99%E3%83%BC%E3%83%88%E3%82%99%E5%85%A5%E5%8A%9B%E8%A1%A8_windows.pdf&#34; title=&#34;キーボード入力表_windows.pdf&#34;&gt;キーボード入力表_windows.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;svg-形式&#34;&gt;svg 形式&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%AD%E3%83%BC%E3%83%9B%E3%82%99%E3%83%BC%E3%83%88%E3%82%99%E5%85%A5%E5%8A%9B%E8%A1%A8.svg&#34; title=&#34;キーボード入力表.svg&#34;&gt;キーボード入力表.svg&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;ライセンス&#34;&gt;ライセンス&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://komtmt.files.wordpress.com/2015/04/by-sa.png?w=100&#34; alt=&#34;Cretive Commons BY SA&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.ja&#34;&gt;BY SA について&lt;/a&gt;&lt;/p&gt;</description>
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -470,23 +200,135 @@
       <description>&lt;p&gt;小学校におじゃました時や&lt;a href=&#39;https://gramin.jp/online-scratch-class/&#39;&gt;オンラインスクラッチクラス&lt;/a&gt;で授業をするときに使う資料（しりょう）です。&lt;/p&gt;
 
 &lt;p&gt;コスチュームを足す方法をまとめました。
-&lt;/p&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>シューティングゲーム</title>
+      <link>/portfolio/work12/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work12/</guid>
+      <description>&lt;p&gt;&lt;a href=&#39;https://gramin.jp&#39;&gt;キッズプログラミング教室 Gramin&lt;/a&gt; で講師（こうし）が小学校におじゃまして一緒（いっしょ）に Scratch ゲームを作った時に使った資料（しりょう）です。&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&#39;コスチュームを足してみよう&#39; src=&#39;../../img/portfolio/ref-add-costume.png&#39; style=&#39;width:100%;&#39;/&gt;&lt;/p&gt;
+&lt;p&gt;ちびっこモンスターにボールを当ててやっつけていくゲームです。30秒以内に何匹（なんびき）たおせるかな？
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ジャンプするゲームの作り方</title>
+      <link>/portfolio/work10/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work10/</guid>
+      <description>&lt;p&gt;&lt;a href=&#39;https://gramin.jp&#39;&gt;キッズプログラミング教室 Gramin&lt;/a&gt; で講師（こうし）が小学校におじゃまして一緒（いっしょ）に Scratch ゲームを作った時に使った資料（しりょう）です。&lt;/p&gt;
 
-&lt;h3 id=&#34;pdf-形式&#34;&gt;pdf 形式&lt;/h3&gt;
+&lt;p&gt;コウモリがジャンプするシンプルだけど奥（おく）が深（ふか）いゲームです。
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>スクラッチをはじめよう</title>
+      <link>/portfolio/work9/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work9/</guid>
+      <description>&lt;p&gt;&lt;a href=&#39;https://scratch.mit.edu/&#39;&gt;Scratch&lt;/a&gt; ってなに？、画面の紹介、チュートリアル（ダンスしよう）、作品の保存方法、作品を開く方法を紹介します。これは Scratch バージョン 1.4 の時のものになります。
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>スプライトを消してみよう</title>
+      <link>/portfolio/work15/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work15/</guid>
+      <description>&lt;p&gt;小学校におじゃまする時やオンラインスクラッチクラスで授業をするときに使う資料（しりょう）です。&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%83%92%E3%83%B3%E3%83%88/%E3%82%B3%E3%82%B9%E3%83%81%E3%83%A5%E3%83%BC%E3%83%A0%E3%82%92%E3%81%9F%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%20.pdf&#34;&gt;コスチュームをたしてみよう .pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;スプライトを消す方法をまとめました。
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>スプライトを足してみよう</title>
+      <link>/portfolio/work14/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work14/</guid>
+      <description>&lt;p&gt;小学校におじゃまする時や&lt;a href=&#39;https://gramin.jp/online-scratch-class/&#39;&gt;オンラインスクラッチクラス&lt;/a&gt;で授業をするときに使う資料（しりょう）です。&lt;/p&gt;
 
-&lt;h3 id=&#34;odp-形式&#34;&gt;odp 形式&lt;/h3&gt;
+&lt;p&gt;スプライトを追加（ついか）する方法をまとめました。
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>変数（へんすう）を使ってみよう</title>
+      <link>/portfolio/work23/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work23/</guid>
+      <description>&lt;p&gt;小学校におじゃました時やオンラインスクラッチクラスで授業をするときに使う資料（しりょう）です。&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/gramin-programming/kids-programming-resource/blob/master/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%82%99/%E3%83%92%E3%83%B3%E3%83%88/%E3%82%B3%E3%82%B9%E3%83%81%E3%83%A5%E3%83%BC%E3%83%A0%E3%82%92%E3%81%9F%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%20.odp&#34;&gt;コスチュームをたしてみよう .odp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Scratch で HP（ヒットポイント）を作る時などに使える変数（へんすう）について説明しました。
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>座標（ざひょう）について知ろう</title>
+      <link>/portfolio/work22/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work22/</guid>
+      <description>&lt;p&gt;小学校におじゃました時やオンラインスクラッチクラスで授業をするときに使う資料（しりょう）です。&lt;/p&gt;
 
-&lt;h3 id=&#34;ライセンス&#34;&gt;ライセンス&lt;/h3&gt;
+&lt;p&gt;座標（ざひょう）について説明しました。座標は小学校では習いませんが小学生でもすぐに理解（りかい）することができます。
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>背景（はいけい）を作ろう</title>
+      <link>/portfolio/work17/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work17/</guid>
+      <description>&lt;p&gt;小学校におじゃました時やオンラインスクラッチクラスで授業をするときに使う資料（しりょう）です。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://komtmt.files.wordpress.com/2015/04/by-nd.png?w=100&#34; alt=&#34;Cretive Commons BY ND&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;背景（はいけい）を作る方法をまとめました。
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>自動的に動かそう</title>
+      <link>/portfolio/work18/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work18/</guid>
+      <description>&lt;p&gt;小学校におじゃました時やオンラインスクラッチクラスで授業をするときに使う資料（しりょう）です。&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-nd/4.0/deed.ja&#34;&gt;BY ND について&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;背景（はいけい）を作る方法をまとめました。
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>迷路（めいろ）を進むゲーム</title>
+      <link>/portfolio/work11/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work11/</guid>
+      <description>&lt;p&gt;キッズプログラミング教室 Gramin で講師（こうし）が小学校におじゃまして一緒（いっしょ）に Scratch ゲームを作った時に使った資料（しりょう）です。&lt;/p&gt;
+
+&lt;p&gt;主人公（しゅじんこう）が上下左右のキーを使って迷路を進みながら黄色いマークへたどりつくゲームです。
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>キーボード入力表（Mac 向け）</title>
+      <link>/portfolio/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work1/</guid>
+      <description>&lt;p&gt;Mac で使われるキーボードのキーの一覧と特殊なキーの簡単な説明です。
+&lt;/p&gt;</description>
     </item>
     
   </channel>
