@@ -4,7 +4,7 @@ title = "小学生のためのプログラミング教材"
 
 theme = "hugo-creative-portfolio-theme"
 
-disqusShortname = "ぐらみん株式会社が運営している キッズプログラミング教室 Gramin（ぐらみん）で授業の時に利用している教材です。"
+disqusShortname = "ぐらみん株式会社が運営している キッズプログラミング教室ぐらみんで授業の時に利用している教材です。"
 
 googleAnalytics = "UA-3918039-22"
 
@@ -17,10 +17,10 @@ publishdir = "public"
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "green"
-  description = "小学生向けのプログラミング教室 Gramin"
+  description = "小学生向けのプログラミング教室ぐらみん"
   copyright = "&copy;2015 <a href='https://gramin.jp'>ぐらみん株式会社</a>"
   sidebarAbout = [
-    "<a href='https://gramin.jp'>ぐらみん株式会社</a>が運営している キッズプログラミング教室 Gramin（ぐらみん）で授業の時に利用している教材です。ライセンスは CC BY ND と BY SA の２つがあるのでご注意下さい",
+    "<a href='https://gramin.jp'>ぐらみん株式会社</a>が運営しているキッズプログラミング教室ぐらみんで授業の時に利用している教材です。ライセンスは CC BY ND と BY SA の２つがあるのでご注意下さい",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
