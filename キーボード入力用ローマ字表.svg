@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="キーボード入力用ローマ字表.svg"
+   sodipodi:docname="キーボード入力用ローマ字表.svg"
    inkscape:export-filename="/home/ihe/document/downloads/roma_for_keyboard.png"
    inkscape:export-xdpi="34.209999"
    inkscape:export-ydpi="34.209999">
@@ -28,14 +28,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="397.92989"
-     inkscape:cy="406.10676"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="393.87197"
+     inkscape:cy="283.23626"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1146"
+     inkscape:window-height="1147"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -71,7 +71,7 @@
        sodipodi:nodetypes="csssscc"
        inkscape:connector-curvature="0"
        id="rect4323-4-9"
-       d="m 0.64865645,331.54831 471.79403355,0 c 15.37499,0 27.7527,12.3777 27.7527,27.7527 l 0,4.93247 c 0,15.37499 -12.37771,27.7527 -27.7527,27.7527 l -471.79403355,0 z"
+       d="m 0.64865645,332.97689 471.79403355,0 c 15.37499,0 27.7527,12.3777 27.7527,27.7527 l 0,4.93247 c 0,15.37499 -12.37771,27.7527 -27.7527,27.7527 l -471.79403355,0 z"
        style="fill:#83cc83;fill-opacity:1;stroke:#83cc83;stroke-width:1.22794402" />
     <flowRoot
        xml:space="preserve"
@@ -79,7 +79,8 @@
        style="font-style:normal;font-weight:normal;font-size:20.27582359px;line-height:125%;font-family:'Migu OneC';letter-spacing:0px;word-spacing:0px;fill:#daf0da;fill-opacity:1;stroke:#daf0da;stroke-width:1.0137912;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="/home/ihe/document/pj/make_all/workspace/makeall/proj/gramin/text/images/logo.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
+       inkscape:export-ydpi="90"
+       transform="translate(0,1.4285714)"><flowRegion
          id="flowRegion4290-8-9"
          style="stroke-width:1.0137912"><rect
            id="rect4292-7-6"
@@ -91,15 +92,15 @@
          id="flowPara4294-2-1"
          style="stroke-width:1.0137912">Gra</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="55.539207"
-       y="373.86099"
+       y="375.28958"
        id="text2996"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2998"
          x="55.539207"
-         y="373.86099"
+         y="375.28958"
          style="font-size:32px;fill:#ffffff">キーボード入力用ローマ字表</tspan></text>
     <path
        style="opacity:0.84814818;color:#000000;fill:#ceebce;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -373,13 +374,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:125%;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:#3d953d;stroke-width:0.80000001;stroke-opacity:1"
-       x="287.45554"
+       x="286.02695"
        y="414.50327"
        id="text3996-3-4-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3998-5-9-0"
-         x="287.45554"
+         x="286.02695"
          y="414.50327"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.19999981px;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';fill:#3d953d;fill-opacity:1;stroke:#3d953d;stroke-width:0.80000001;stroke-opacity:1">い</tspan></text>
     <text
@@ -4162,18 +4163,6 @@
            id="tspan3868-5-7-3-79-1-5-7-8-2"
            sodipodi:role="line">ほ</tspan></text>
     </g>
-    <text
-       sodipodi:linespacing="125%"
-       id="text4319-9-9-7-9-99-5-0-9-5"
-       y="1046.7203"
-       x="844.50415"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'"
-       xml:space="preserve"><tspan
-         style="font-size:20px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'"
-         y="1046.7203"
-         x="844.50415"
-         id="tspan4321-1-4-7-9-2-6-3-8-4"
-         sodipodi:role="line">By Gramin</tspan></text>
     <image
        y="1018.6794"
        x="952.01044"
@@ -4181,29 +4170,6 @@
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAAfCAYAAABjyArgAAAABHNCSVQICAgIfAhkiAAACR1JREFU aIHtml1wG9UVx3+7kjMNxermqTByB+fN8gviI3kCLJWWDg2QVfPBR0qR8lCmZDqyKRhabMtKYgpu gqx2gGkLtgp9ZaJ8zbTQidYpM03sEMkTZuw3iRl7Ck8WCg8kWun2YbVXK1t2ZCeBIeWfud6r+3Hu vf979uy550YRQngURfmcb3HNIYRQFEAAnHz/BKqqoqoqLpcLVXXhUlVUV+2pqiiKiqooKIoCimJL QSAQVUFVVKlWrVSpVKxntUKlUqVarci6qqjK9kIIezIyfyNg1/bdACiAsMl1uVxWUl31vMtl1amu GskKiqI6+a2RUyO2apFZqdSSM19pJLlarUpinUTfKNi1fTduoJFclxt3w9NKx4+eIJPJMDU1xcXS xQZB7Z52tm7dSvCHQR5+5CEqVReqalobUlFRULD2sg5RFdabANY7pKxO7vnpLOn30szOzjaU+3w+ 9B06d26546rIuF7yFUD889Q/cLvdklS3220ll5tJ4zSjr4yysLDQkkCv10v/b/vp6bkPs1KhUjEx zVqqmJhmRWp4M02GRqI//e9nvJ58nbnZOQACgQB+vx+AXC6HYRgAdPm62Bfdxy23fn9NBFxP+bu2 77YI/tfkB7hd7jqx7jba3G5ig8Okj6RlB03T0HWdzs5Oenp6AJicnKRQKJBOpykWi7KtHtJ5rv83 bLxpI6ZpUjZNTLOMaZqNJsMmuFqz5Q6ivyh9QXRfL6VSCV3XSSQSdHZ2NiyiUCjQ19dHOp3G4/Ew MjrSMgnXW74k+NS/T9FmE9vmps3d1kCupmn09vYSjUbRNG1FgalUir6+Pkl0l6+Lt8b/ync2bsQ0 y5TLZanJTUleYo8HXxxibnaOcDjMxMSEHMc2LU5NT6VSRCIRunxdHHhlf0sENJM/Pz/Pwvw8AN6O Djo6OtYtf9f23agArpoNdrtcuF2Nmuv3+8lms8RisVXJBQiHw+TzefmKzc3OcWj0cIMtV6VHotRT 7Z8NRVE4P51lbnYOXdfpf/75Ky4mHA6j6zpzs3Ocn85esX0z+X9/5x0C99zLnsceZ89jjxO4514+ eP/9dcm3oQKotlvmcjFpnG4gN5PJLHttVoOmaWQyGUly+kiaycnTuFzu5iSrtttHA8np96w5JBIJ fN3dDWOs5NIlEomGvqthqfyzZ84wPBSj45ZbCQSC7Ni5E4Bf/fJp/jg2tmb5NhwabGnx6CujgEXU xMTEFbW2GWyS7b6jvx+t+dI1cpWaT63WPAyFOsm11392dpZAILBscyORiNT8SCTSUNfZ2UkgEFjm CTSDU36pVGI2ewGA7frPeCs1zquH/sBLQ4MApMYn1izfhqXBtcUfP3pCegu9vb1SC9cDTdPkji8s LHD82Al5YLFIXtlE2Gg2fiqVappfrc9KcLYdec1SrL/87W1Z9uMHHgCgVCrx2aefrlk+1Ai2tSmT yQAWOdFoVDYyDINQKEQwGCQYDBKPx1esG6u9TmDZLVuLM6cyDu2tmwY7LTURXyU8Hg/JZJKbPO28 +eabTdt8+eWldcm2DhqKgqooTE1NAaDruiTGMAyCwWBDJ8MwMAyDaDRKKBRaVjczMyO/yrquk0ql mJqask6ADmKhTi5Q88rrsnK53LIJh8NhqbnhcHhZfbM+K8HZts3tpv+557hp40ZZdvbMGZm/rfO2 NcsHqcHWQu0T2u233y4b9PX1AZb9yefz8qP31FNPSU32+/3k83mOHDnS4CMDMn+xdLFuDuTTatPM RPh8PgzDoFAoNJQ73TVnHiyf1TAMfD7fFRe+VP78/DzDQzGeePQxRvYfYGT/AYYGBgB4/oUX1izf hlpbYf3YSqOdsXcsHA5LI5/P5wmHw7LOPnzoui7rbDg/UpbSLj82N4O+QwfqG9wK7LZ237XIj+zd S2TvXgAmxseZGB/n0peX2PbwQzy+54k1y7fhbrnlV4w7t9xBl6+LdDpNJBJZpq1LYZ+2unxdLcUN msl/aWiQnzz4IJ98UgCgu7tbuohrlW/D0mDReCpy2hlbm1OpFMVikVwux+bNm4nH43Vft3ZMdtbZ cL7iQsg/LU3uhd/14/F4SKVShEIhKcvpBxcKBUKhEGNjY3g8HvZF97W8+Gby795yNzt27mTHzp34 uruvSj7UNNiecLunnYuli8zMzMgGsVhMDr5p0yZZXigUZF0ul1tWZ8OW1e5pRwjHcRiBvae1X8sm d7PnZpKvj/Hqy6Ok02nS6TR+vx+/34+maRiGIZVhPcGY6y0fat/tsx+dZcOGDcSH4qSPpNE0jcXF RdnIMAySyaSMMQQCAWKxGGBpbzKZlG2ddQCbN2+mUChw/4/u53DiEJcuX6ZcvkzZLFMum1TsuES1 QrVSlUH4pSe1b2K4UgZ7zpz7D21tG/jw9IdEf235v4lEgt7e3quatB0gATj48kF+uu1BLpcvc7lc xiyXKZtLCG4S8PkmQwZ77CudQLAHr9cLQDweX+YirQXFYlF+db1eby0Qb4cmq1Rrttg2FzcqVICq qFKpWPdoB0asUFyxWCQUCjXEeFtFsVgkGAzKvv0v9tcC7JU6yY4QpfzIihvrysiGAMRAbEBMn58S uQtZ8eQvnrQ/9cLv94tsNitaRT6fF36/X/bXQ7rIXciK6fNTYv/Ifln+f5TqP3qfjYpz2WmR+zgn 9JAuyzVNE8PDw2JxcXFFYhcXF8Xw8LDQNE3227J1i5j5OCfO5abFQGzg617o15KWnP5hMDbA9pCO 2+3m8Ohh3n3nXVm31iuj+IFhTNPk7Nkpnnn6GdYLp9lw3mY4T59Lf1+rMZy/1y17aRqMDViafCEr xlNvC6/X2/KOeb1ekfxTUuQuZMW53LR4489vXLUWCCFWzTvLrlb+lcZca1qmwTZ6n42y5+d75C2E kZnk2NFjq17bP6I/QiDQI+/ajh49xsH4wdW3twU00y5n3dVqmHOMZvd9zcZtFSsSDHDnXXcwGBui 4wdex22EM9xIg99q/8eThfl5XjuU4PTk6XVNaimcJF5r07DSWKuNuRasSrCN+3ruY9vD27jr7rv4 nsfTGMMV1gQ+L5X46NxHnDx+8poRa+N6a/CVbPx1J/hbrB+qEOK7X/ckblQIIZT/AaS2urbWZ21V AAAAAElFTkSuQmCC "
        height="31"
        width="88" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4288-3-2-5"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#83cc83;fill-opacity:1;stroke:#83cc83;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(1.0065423,0.70364389,-0.70364389,1.0065423,282.55742,389.84645)"
-       inkscape:export-filename="/home/ihe/document/pj/make_all/workspace/makeall/proj/gramin/text/images/logo.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion4290-6-1-6"><rect
-           id="rect4292-4-0-2"
-           width="367.1875"
-           height="100.78125"
-           x="82.8125"
-           y="-162.48157"
-           style="fill:#83cc83;fill-opacity:1;stroke:#83cc83;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
-         id="flowPara4294-5-5-9">min</flowPara></flowRoot>    <path
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#f3f7f3;fill-opacity:1;stroke:#f3f7f3;stroke-width:3.6843152;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 455.36698,332.51786 1.18973,0.84432 0.57567,-0.84432 -1.7654,0 z m 14.8524,0 -4.87405,6.98484 3.45405,2.41784 6.40918,-9.13404 c -1.23381,-0.16634 -2.48027,-0.26864 -3.76107,-0.26864 l -1.22811,0 z m 15.58158,3.99134 -8.13619,11.62862 3.49242,2.41783 8.09782,-11.59024 c -1.08358,-0.90612 -2.23834,-1.72221 -3.45405,-2.45621 z m 9.32593,9.32592 -6.79296,9.74808 3.45405,2.41784 5.48809,-7.86755 c -0.58917,-1.50911 -1.31736,-2.93256 -2.14918,-4.29837 z m 4.0681,16.9632 -0.19189,0.26865 0.19189,0.15351 0,-0.42216 z"
-       id="flowRoot4288-3-7-8-1"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/ihe/document/pj/make_all/workspace/makeall/proj/gramin/text/images/logo.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3979-8"
@@ -4269,5 +4235,47 @@
            y="179.4192"
            style="writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none" /></flowRegion><flowPara
          id="flowPara3985-3-9-4-5-1"
-         style="font-size:12px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none">(おー)</flowPara></flowRoot>  </g>
+         style="font-size:12px;writing-mode:lr-tb;fill:#3d953d;fill-opacity:1;stroke:none">(おー)</flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text4319-9-9-7-9-99-5-0-9-5"
+       y="1045.9259"
+       x="769.60168"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'IPA Pゴシック';-inkscape-font-specification:'IPA Pゴシック';letter-spacing:0px;word-spacing:0px;display:inline;fill:#83cc83;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:20px;font-family:Migu;-inkscape-font-specification:Migu;fill:#83cc83;fill-opacity:1;stroke:none"
+         y="1045.9259"
+         x="769.60168"
+         id="tspan4321-1-4-7-9-2-6-3-8-4"
+         sodipodi:role="line">by ぐらみん株式会社</tspan></text>
+    <g
+       transform="matrix(0.39316288,0,0,0.39316288,295.55567,475.19914)"
+       style="display:inline"
+       id="g7585">
+      <g
+         id="flowRoot4288-3-2"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#83cc83;fill-opacity:1;stroke:#83cc83;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="matrix(2.5775231,1.80187,-1.80187,2.5775231,-37.27295,-213.33708)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7579"
+           d="m 114.19922,-118.87891 -3.4375,0 0,-12.48046 q 0,-5.03907 -3.90625,-5.03907 -1.85547,0 -3.39844,1.71875 -1.09375,1.21094 -1.52344,3.04688 l 0,12.7539 -3.437496,0 0,-12.51953 q 0,-5 -3.691407,-5 -1.953125,0 -3.4375,1.71875 -1.601562,1.77735 -1.601562,3.4375 l 0,12.36328 -3.4375,0 0,-19.92187 3.203125,0 0,3.4375 q 1.972656,-3.82813 5.957031,-3.82813 4.355469,0 5.800779,4.16016 2.16797,-4.16016 6.23047,-4.16016 3.28125,0 5.11719,2.32422 1.5625,1.91407 1.5625,5.42969 l 0,12.55859 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7581"
+           d="m 125.01953,-143.03906 -3.92578,0 0,-4.00391 3.92578,0 0,4.00391 z m -0.2539,24.16015 -3.4375,0 0,-19.92187 3.4375,0 0,19.92187 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7583"
+           d="m 149.23828,-118.87891 -3.4375,0 0,-12.36328 q 0,-5.07812 -4.19922,-5.07812 -4.23828,0 -6.21094,5.07812 l 0,12.36328 -3.4375,0 0,-19.92187 3.20313,0 0,3.59375 q 2.8125,-3.98438 7.16797,-3.98438 6.91406,0 6.91406,7.75391 l 0,12.55859 z" />
+      </g>
+      <path
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#f3f7f3;fill-opacity:1;stroke:#f3f7f3;stroke-width:9.43468285;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 405.25254,-360.14242 3.04662,2.16212 1.47417,-2.16212 -4.52079,0 z m 38.03359,0 -12.48132,17.88659 8.84502,6.19151 16.41243,-23.39015 c -3.15949,-0.42598 -6.3514,-0.68795 -9.63124,-0.68795 l -3.14489,0 z m 39.90084,10.22091 -20.83492,29.77822 8.94329,6.19151 20.73665,-29.67994 c -2.7748,-2.32037 -5.73189,-4.41018 -8.84502,-6.28979 z m 23.88155,23.88154 -17.3952,24.9626 8.84501,6.19151 14.05375,-20.14698 c -1.50873,-3.86447 -3.37347,-7.5096 -5.50356,-11.00713 z m 10.41746,43.43886 -0.49139,0.68794 0.49139,0.39311 0,-1.08105 z"
+         id="flowRoot4288-3-7-8"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/ihe/document/pj/make_all/workspace/makeall/proj/gramin/text/images/logo.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+  </g>
 </svg>

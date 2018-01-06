@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="基本コマンド集.svg"
+   sodipodi:docname="基本コマンド集.svg"
    inkscape:export-filename="/home/ihe/document/downloads/standard_command.png"
    inkscape:export-xdpi="169.33"
    inkscape:export-ydpi="169.33">
@@ -136,14 +136,14 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="641.5983"
-     inkscape:cy="263.56861"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="478.06952"
+     inkscape:cy="386.5325"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1146"
+     inkscape:window-height="1147"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -176,59 +176,32 @@
            height="107.14286"
            x="61.42857"
            y="210.93361" /></flowRegion><flowPara
-         id="flowPara3029" /></flowRoot>    <g
-       transform="matrix(0.70416206,0,0,0.70416206,320.05231,606.12609)"
-       style="display:inline"
-       id="g3110">
-      <path
-         style="fill:#83cc83;fill-opacity:1;stroke:#83cc83;stroke-width:3.14489436"
-         d="m -452.85383,-361.8521 900.98171,0 c 39.37699,0 71.0776,31.70061 71.0776,71.0776 l 0,12.63257 c 0,39.37699 -31.70061,71.0776 -71.0776,71.0776 l -900.98171,0 z"
-         id="rect4323-4-9"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="csssscc"
-         inkscape:export-filename="/home/ihe/document/pj/make_all/workspace/makeall/proj/gramin/text/images/logo.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <flowRoot
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/ihe/document/pj/make_all/workspace/makeall/proj/gramin/text/images/logo.png"
-         transform="matrix(1.2982132,0,0,1.2982132,-563.79323,-53.63329)"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#daf0da;fill-opacity:1;stroke:#daf0da;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Migu OneC'"
-         id="flowRoot4288-8-8"
-         xml:space="preserve"><flowRegion
-           id="flowRegion4290-8-9"><rect
-             style="fill:#daf0da;fill-opacity:1;stroke:#daf0da;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-             y="-162.48157"
-             x="82.8125"
-             height="100.78125"
-             width="367.1875"
-             id="rect4292-7-6" /></flowRegion><flowPara
-           id="flowPara4294-2-1">Gra</flowPara></flowRoot>      <flowRoot
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/ihe/document/pj/make_all/workspace/makeall/proj/gramin/text/images/logo.png"
-         transform="matrix(2.5775231,1.80187,-1.80187,2.5775231,-37.27295,-213.33708)"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#83cc83;fill-opacity:1;stroke:#83cc83;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;font-family:'Migu OneC'"
-         id="flowRoot4288-3-2"
-         xml:space="preserve"><flowRegion
-           id="flowRegion4290-6-1"><rect
-             style="fill:#83cc83;fill-opacity:1;stroke:#83cc83;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
-             y="-162.48157"
-             x="82.8125"
-             height="100.78125"
-             width="367.1875"
-             id="rect4292-4-0" /></flowRegion><flowPara
-           id="flowPara4294-5-5">min</flowPara></flowRoot>      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/ihe/document/pj/make_all/workspace/makeall/proj/gramin/text/images/logo.png"
-         inkscape:connector-curvature="0"
-         id="flowRoot4288-3-7-8"
-         d="m 405.25254,-360.14242 3.04662,2.16212 1.47417,-2.16212 -4.52079,0 z m 38.03359,0 -12.48132,17.88659 8.84502,6.19151 16.41243,-23.39015 c -3.15949,-0.42598 -6.3514,-0.68795 -9.63124,-0.68795 l -3.14489,0 z m 39.90084,10.22091 -20.83492,29.77822 8.94329,6.19151 20.73665,-29.67994 c -2.7748,-2.32037 -5.73189,-4.41018 -8.84502,-6.28979 z m 23.88155,23.88154 -17.3952,24.9626 8.84501,6.19151 14.05375,-20.14698 c -1.50873,-3.86447 -3.37347,-7.5096 -5.50356,-11.00713 z m 10.41746,43.43886 -0.49139,0.68794 0.49139,0.39311 0,-1.08105 z"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f3f7f3;fill-opacity:1;stroke:#f3f7f3;stroke-width:9.43468285;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Migu OneC'" />
-    </g>
-    <text
+         id="flowPara3029" /></flowRoot>    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/ihe/document/pj/make_all/workspace/makeall/proj/gramin/text/images/logo.png"
+       sodipodi:nodetypes="csssscc"
+       inkscape:connector-curvature="0"
+       id="rect4323-4-9"
+       d="m 1.1698242,351.32357 634.4371358,0 c 27.72778,0 50.05015,22.32237 50.05015,50.05015 l 0,8.89538 c 0,27.72778 -22.32237,50.05014 -50.05015,50.05014 l -634.4371358,0 z"
+       style="fill:#83cc83;fill-opacity:1;stroke:#83cc83;stroke-width:2.21451521" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4288-8-8"
+       style="font-style:normal;font-weight:normal;font-size:36.56610107px;line-height:125%;font-family:'Migu OneC';letter-spacing:0px;word-spacing:0px;fill:#daf0da;fill-opacity:1;stroke:#daf0da;stroke-width:1.82830501;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/ihe/document/pj/make_all/workspace/makeall/proj/gramin/text/images/logo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4290-8-9"
+         style="stroke-width:1.82830501"><rect
+           id="rect4292-7-6"
+           width="335.66537"
+           height="92.129433"
+           x="-1.2462398"
+           y="419.82663"
+           style="fill:#daf0da;fill-opacity:1;stroke:#daf0da;stroke-width:1.67134953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara4294-2-1"
+         style="stroke-width:1.82830501">Gra</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'"
        x="211.40155"
@@ -1208,18 +1181,6 @@
              style="font-size:18px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'">&gt; cd 移動先ディレクトリ</tspan></text>
       </g>
     </g>
-    <text
-       sodipodi:linespacing="125%"
-       id="text4319-9-9-7-9-99-5-0-9-5"
-       y="1045.5028"
-       x="852.29474"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';"
-       xml:space="preserve"><tspan
-         style="font-size:20px;fill:#3d953d;fill-opacity:1;stroke:none;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC'"
-         y="1045.5028"
-         x="852.29474"
-         id="tspan4321-1-4-7-9-2-6-3-8-4"
-         sodipodi:role="line">By Gramin</tspan></text>
     <image
        y="1019.4618"
        x="959.80103"
@@ -1239,5 +1200,47 @@
            x="646.29559"
            y="759.65082" /></flowRegion><flowPara
          id="flowPara4469-0-2"
-         style="font-size:14px;fill:#3d953d">ディレクトリを削除したい時は rmdir を同じように使う</flowPara></flowRoot>  </g>
+         style="font-size:14px;fill:#3d953d">ディレクトリを削除したい時は rmdir を同じように使う</flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text4319-9-9-7-9-99-5-0-9-5"
+       y="1045.7831"
+       x="780.03027"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'IPA Pゴシック';-inkscape-font-specification:'IPA Pゴシック';letter-spacing:0px;word-spacing:0px;display:inline;fill:#83cc83;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:20px;font-family:Migu;-inkscape-font-specification:Migu;fill:#83cc83;fill-opacity:1;stroke:none"
+         y="1045.7831"
+         x="780.03027"
+         id="tspan4321-1-4-7-9-2-6-3-8-4"
+         sodipodi:role="line">by ぐらみん株式会社</tspan></text>
+    <g
+       transform="matrix(0.70416206,0,0,0.70416206,319.34521,606.91897)"
+       style="display:inline"
+       id="g7585">
+      <g
+         id="flowRoot4288-3-2"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#83cc83;fill-opacity:1;stroke:#83cc83;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="matrix(2.5775231,1.80187,-1.80187,2.5775231,-37.27295,-213.33708)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7579"
+           d="m 114.19922,-118.87891 -3.4375,0 0,-12.48046 q 0,-5.03907 -3.90625,-5.03907 -1.85547,0 -3.39844,1.71875 -1.09375,1.21094 -1.52344,3.04688 l 0,12.7539 -3.437496,0 0,-12.51953 q 0,-5 -3.691407,-5 -1.953125,0 -3.4375,1.71875 -1.601562,1.77735 -1.601562,3.4375 l 0,12.36328 -3.4375,0 0,-19.92187 3.203125,0 0,3.4375 q 1.972656,-3.82813 5.957031,-3.82813 4.355469,0 5.800779,4.16016 2.16797,-4.16016 6.23047,-4.16016 3.28125,0 5.11719,2.32422 1.5625,1.91407 1.5625,5.42969 l 0,12.55859 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7581"
+           d="m 125.01953,-143.03906 -3.92578,0 0,-4.00391 3.92578,0 0,4.00391 z m -0.2539,24.16015 -3.4375,0 0,-19.92187 3.4375,0 0,19.92187 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7583"
+           d="m 149.23828,-118.87891 -3.4375,0 0,-12.36328 q 0,-5.07812 -4.19922,-5.07812 -4.23828,0 -6.21094,5.07812 l 0,12.36328 -3.4375,0 0,-19.92187 3.20313,0 0,3.59375 q 2.8125,-3.98438 7.16797,-3.98438 6.91406,0 6.91406,7.75391 l 0,12.55859 z" />
+      </g>
+      <path
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#f3f7f3;fill-opacity:1;stroke:#f3f7f3;stroke-width:9.43468285;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 405.25254,-360.14242 3.04662,2.16212 1.47417,-2.16212 -4.52079,0 z m 38.03359,0 -12.48132,17.88659 8.84502,6.19151 16.41243,-23.39015 c -3.15949,-0.42598 -6.3514,-0.68795 -9.63124,-0.68795 l -3.14489,0 z m 39.90084,10.22091 -20.83492,29.77822 8.94329,6.19151 20.73665,-29.67994 c -2.7748,-2.32037 -5.73189,-4.41018 -8.84502,-6.28979 z m 23.88155,23.88154 -17.3952,24.9626 8.84501,6.19151 14.05375,-20.14698 c -1.50873,-3.86447 -3.37347,-7.5096 -5.50356,-11.00713 z m 10.41746,43.43886 -0.49139,0.68794 0.49139,0.39311 0,-1.08105 z"
+         id="flowRoot4288-3-7-8"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/ihe/document/pj/make_all/workspace/makeall/proj/gramin/text/images/logo.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+  </g>
 </svg>
