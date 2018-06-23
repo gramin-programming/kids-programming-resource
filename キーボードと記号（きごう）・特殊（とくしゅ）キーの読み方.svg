@@ -16,9 +16,9 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方.svg"
-   inkscape:export-filename="/home/ihe/ダウンロード/keyboard-symbol-mac-jis.png"
-   inkscape:export-xdpi="51.310001"
-   inkscape:export-ydpi="51.310001">
+   inkscape:export-filename="/home/ihe/ダウンロード/keyboard-symbol-win-109.png"
+   inkscape:export-xdpi="68.419998"
+   inkscape:export-ydpi="68.419998">
   <defs
      id="defs4">
     <marker
@@ -176,8 +176,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.74246212"
-     inkscape:cx="405.70146"
-     inkscape:cy="254.48863"
+     inkscape:cx="151.14302"
+     inkscape:cy="251.79489"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -196,7 +196,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -331,7 +331,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-308.26772)"
-     style="display:none">
+     style="display:inline">
     <ellipse
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#83cc83;fill-opacity:1;fill-rule:nonzero;stroke:#83cc83;stroke-width:0.33744508;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="path6465-6-7-5-3-5-6-2-9-1-7-9-3-6-6-6-1-8-7-9-2-0-2-3-7"
@@ -2392,7 +2392,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Win 109 記号"
-     style="display:none">
+     style="display:inline">
     <path
        transform="translate(0,-308.26772)"
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#83cc83;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -3353,7 +3353,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Mac JIS キーレイアウト"
-     style="display:inline">
+     style="display:none">
     <ellipse
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#83cc83;fill-opacity:1;fill-rule:nonzero;stroke:#83cc83;stroke-width:0.40393701;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="path6465-6-7-5-3-5-6-3"
@@ -5303,7 +5303,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Mac JIS 記号"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:125%;font-family:'Migu OneC';-inkscape-font-specification:'Migu OneC';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
