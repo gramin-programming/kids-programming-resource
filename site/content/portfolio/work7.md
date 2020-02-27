@@ -4,7 +4,7 @@ showonlyimage = false
 
 image = "img/portfolio/基本コマンド集.png"
 date = "2016-11-05T18:25:22+05:30"
-title = "Linux と Windows の基本コマンド集"
+title = "Mac/Linux と Windows の基本コマンド集"
 
 weight = 1
 +++
