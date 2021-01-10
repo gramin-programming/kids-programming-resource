@@ -41,3 +41,8 @@ publishdir = "public"
   email         = "support@gramin.jp"
   twitter       = "https://twitter.com/GraminInfo"
   github        = "https://github.com/gramin-programming"
+
+  [[params.navlinks]]
+  name = "Home"
+  url = "portfolio/"
+  home = true
