@@ -2,11 +2,9 @@
 <html lang="ja-jp">
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>小学校・中学校で習った漢字かどうかをチェックするツール</title>
+<title>小学生のためのプログラミング教材</title>
 <meta name="description" content="小学生向けのプログラミング教室ぐらみん">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="robots" content="all,follow">
-<meta name="googlebot" content="index,follow,snippet,archive">
 <link rel="stylesheet" href="/css/bootstrap.min.css">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
 <link rel="stylesheet" href="/css/font-awesome.min.css">
@@ -56,6 +54,8 @@ if (!doNotTrack) {
     <ul class="sidebar-menu">
       
       
+        <li><a href="/portfolio/">Home</a></li>
+      
     </ul>
     <p class="social">
   
@@ -78,9 +78,12 @@ if (!doNotTrack) {
   
   
   
-  <a href="https://github.com/gramin-programming" data-animate-hover="pulse">
+  <a href="https://github.com/gramin-programming" data-animate-hover="pulse" class="external">
     <i class="fa fa-github"></i>
   </a>
+  
+  
+  
   
 </p>
 
@@ -90,7 +93,7 @@ if (!doNotTrack) {
         
           &copy;2015 <a href='https://gramin.jp'>ぐらみん株式会社</a>
         
-        | Template by <a href="https://bootstrapious.com/free-templates" class="external">Bootstrapious.com</a>
+        Template by <a href="https://bootstrapious.com/free-templates" class="external">Bootstrapious.com</a>
 
 &amp; ported to Hugo by <a href="https://github.com/kishaningithub">Kishan B</a>
 
@@ -111,17 +114,11 @@ if (!doNotTrack) {
       <div class="content-column-content">
          <h1>小学校・中学校で習った漢字かどうかをチェックするツール</h1>
          <p>日本の小学生・中学生が使う常用漢字以外の漢字が使われていないかをチェックするツールです。</p>
-
 <p>学校や塾の先生や子どもを持つご両親向けに作成しています。</p>
-
 <p>コマンドで実行する必要がありますが、今のところ Microsoft word やテキスト文章、OpenOffice(LibreOffice Impress)のドキュメントに対して使うことができます。</p>
-
-<p><img src="https://raw.githubusercontent.com/gramin-programming/kidskanjichecker/master/kids-kanji-checker-image.png" alt="イメージ" /></p>
-
+<p><img src="https://raw.githubusercontent.com/gramin-programming/kidskanjichecker/master/kids-kanji-checker-image.png" alt="イメージ"></p>
 <h4 id="インストール">インストール</h4>
-
 <p><a href="https://github.com/gramin-programming/kidskanjichecker/releases">リリース</a> からダウンロードして実行するだけです。</p>
-
 <ul>
 <li>kids-kanji-checker_darwin_386: Mac 32bit 向け</li>
 <li>kids-kanji-checker_darwin_amd64: Mac 64bit 向け。最近の Mac であればこれを使って下さい</li>
@@ -131,21 +128,12 @@ if (!doNotTrack) {
 <li>kids-kanji-checker_windows_386.exe: Windows 32bit 向け。</li>
 <li>kids-kanji-checker_windows_amd64.exe: Windows 64bit 向け。最近の Windows であればこれを使って下さい</li>
 </ul>
-
 <p>ダウンロード後に kids-kanji-checker 等に名前を変えても問題ありません。</p>
-
 <p>この後、Linux・Mac 環境では権限を付与します。</p>
-
 <pre><code>$ chmod 0755 kids-kanji-checker_darwin_amd64
-</code></pre>
-
-<p>どこからでも実行したい場合は /usr/local/bin あたりに移動して下さい。</p>
-
+</code></pre><p>どこからでも実行したい場合は /usr/local/bin あたりに移動して下さい。</p>
 <pre><code>$ sudo mv -v kids-kanji-checker_darwin_amd64 /usr/local/bin/.
-</code></pre>
-
-<h4 id="使い方">使い方</h4>
-
+</code></pre><h4 id="使い方">使い方</h4>
 <pre><code>Usage: ./kids-kanji-checker_linux_amd64 [OPTIONS] argument ...
   -fileType string
         ファイルタイプ(odp か docx のみ)。基本は拡張子で判断
@@ -161,31 +149,16 @@ if (!doNotTrack) {
         stdin
   -version
         Version
-</code></pre>
-
-<h4 id="利用例">利用例</h4>
-
+</code></pre><h4 id="利用例">利用例</h4>
 <p>この例ではリリース後に kids-kanji-checker というファイルに名前を変更しています。</p>
-
 <h5 id="テキスト文書に対して-3年生までに習わない漢字を着色して表示する">テキスト文書に対して 3年生までに習わない漢字を着色して表示する</h5>
-
 <pre><code>$ ./kids-kanji-checker -input-file sample/sample.txt -max-year 3
-</code></pre>
-
-<p>3年生までに習わない漢字が着色されて表示されます</p>
-
-<h5 id="microsoft-word-docx-文書に対して小学-1年生までに習わない漢字を着色して表示する">Microsoft Word（Docx）文書に対して小学 1年生までに習わない漢字を着色して表示する</h5>
-
+</code></pre><p>3年生までに習わない漢字が着色されて表示されます</p>
+<h5 id="microsoft-worddocx文書に対して小学-1年生までに習わない漢字を着色して表示する">Microsoft Word（Docx）文書に対して小学 1年生までに習わない漢字を着色して表示する</h5>
 <pre><code>$ ./kids-kanji-checker -input-file sample/sample.docx -max-year 1
-</code></pre>
-
-<h5 id="中学までに習わない漢字を標準入力から受け取って表示する">中学までに習わない漢字を標準入力から受け取って表示する</h5>
-
+</code></pre><h5 id="中学までに習わない漢字を標準入力から受け取って表示する">中学までに習わない漢字を標準入力から受け取って表示する</h5>
 <pre><code>$ cat sample/sample.docx | ./kids-kanji-checker -stdin -max-year 7
-</code></pre>
-
-<h5 id="着色がサポートされていない環境で-libreoffice-impress-文書に対して小学-3年生-max-yearを指定しない場合はこうなります-までに習わない漢字を表示する">着色がサポートされていない環境で LibreOffice Impress 文書に対して小学 3年生（-max-yearを指定しない場合はこうなります）までに習わない漢字を表示する</h5>
-
+</code></pre><h5 id="着色がサポートされていない環境で-libreoffice-impress-文書に対して小学-3年生-max-yearを指定しない場合はこうなりますまでに習わない漢字を表示する">着色がサポートされていない環境で LibreOffice Impress 文書に対して小学 3年生（-max-yearを指定しない場合はこうなります）までに習わない漢字を表示する</h5>
 <pre><code>$ ./kids-kanji-checker -input-file sample/sample.odp -no-color
 </code></pre>
          <div id="disqus_thread"></div>
@@ -225,6 +198,8 @@ if (!doNotTrack) {
 <script src="/js/imagesloaded.pkgd.min.js"></script>
 <script src="/js/owl.carousel.min.js"></script>
 <script src="/js/front.js"></script>
+
+
 
 </body>
 </html>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on 小学生のためのプログラミング教材</title>
@@ -6,10 +6,16 @@
     <description>Recent content in Portfolios on 小学生のためのプログラミング教材</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 05 Dec 2017 21:49:02 +0900</lastBuildDate>
-    
-	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 09 Jan 2020 21:49:02 +0900</lastBuildDate><atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ぐらみんのタイピングゲーム</title>
+      <link>/portfolio/work29/</link>
+      <pubDate>Thu, 09 Jan 2020 21:49:02 +0900</pubDate>
+      
+      <guid>/portfolio/work29/</guid>
+      <description>&lt;p&gt;キッズプログラミング教室ぐらみんでは小学１年生以上の方が遊びながらタイピングの練習ができるタイピングゲームを用意しています。&lt;/p&gt;
+&lt;p&gt;ローマ字は小学校で勉強することの多い訓令式（くんれいしき）をメインにしています。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>小学生・中学生の漢字かどうかをチェックするツール</title>
@@ -18,7 +24,6 @@
       
       <guid>/portfolio/work28/</guid>
       <description>&lt;p&gt;小学生・中学生のお子さんを持つ親御さん、もしくは小中学校の先生が生徒に文書を見せる前にその漢字を習ったことがあるかをチェックするための Web ベースのツールを作りました。&lt;/p&gt;
-
 &lt;p&gt;使い方は簡単で左のテキスト欄に文章を入力して Ctrl + Enter を押すか、ワードやテキストファイルをドロップするだけです。&lt;/p&gt;</description>
     </item>
     
@@ -29,7 +34,6 @@
       
       <guid>/portfolio/work27/</guid>
       <description>&lt;p&gt;オンラインスクラッチクラス・ぐらみんこーどでは 2進数がどんなものかを説明しています。&lt;/p&gt;
-
 &lt;p&gt;この Scratch アプリは 2進数を指で数える方法を説明したものです。&lt;/p&gt;</description>
     </item>
     
@@ -40,9 +44,7 @@
       
       <guid>/portfolio/work26/</guid>
       <description>&lt;p&gt;オンラインスクラッチクラス・ぐらみんこーどでバブルソートがどんなものなのかをシンプルに説明した Scratch アプリです。&lt;/p&gt;
-
 &lt;p&gt;バブルソートはイメージで説明するのがイチバン！！ということで作りました。&lt;/p&gt;
-
 &lt;p&gt;このアプリは説明しかしていなそうですが実際にプログラムの中でバブルソートもしています。&lt;/p&gt;</description>
     </item>
     
@@ -53,9 +55,7 @@
       
       <guid>/portfolio/work25/</guid>
       <description>&lt;p&gt;日本の小学生・中学生が使う常用漢字以外の漢字が使われていないかをチェックするツールです。&lt;/p&gt;
-
 &lt;p&gt;学校や塾の先生や子どもを持つご両親向けに作成しています。&lt;/p&gt;
-
 &lt;p&gt;コマンドで実行する必要がありますが、今のところ Microsoft word やテキスト文章、OpenOffice(LibreOffice Impress)のドキュメントに対して使うことができます。&lt;/p&gt;</description>
     </item>
     
@@ -66,9 +66,7 @@
       
       <guid>/portfolio/work24/</guid>
       <description>&lt;p&gt;タイピングに慣れない小学１年生〜小学４年生を対象にしたタイピングゲームです。&lt;/p&gt;
-
 &lt;p&gt;Scratch を使って作ってありますが小学校高学年のお子さんであれば自分でも作ることができます。&lt;/p&gt;
-
 &lt;p&gt;自分で作る場合、Scratch のリンク先からブロックが見れますので参考にして下さい。&lt;/p&gt;</description>
     </item>
     
@@ -78,8 +76,7 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>/portfolio/work6/</guid>
-      <description>&lt;p&gt;キッズプログラミング教室ぐらみんで&lt;a href=&#39;https://gramin.jp/class/&#39;&gt;スマートフォンアプリ開発クラス（2017年3月閉講）&lt;/a&gt;向けに作成した資料です。&lt;/p&gt;
-
+      <description>&lt;p&gt;キッズプログラミング教室ぐらみんで&lt;!-- raw HTML omitted --&gt;スマートフォンアプリ開発クラス（2017年3月閉講）&lt;!-- raw HTML omitted --&gt;向けに作成した資料です。&lt;/p&gt;
 &lt;p&gt;Java で抽象クラス・インタフェースの理解に苦しむ方を対象にしています。身近な例（哺乳類・爬虫類）を使って抽象クラス・インタフェースの使い道を簡単に説明し、無名クラスについても簡単に触れています。&lt;/p&gt;</description>
     </item>
     
@@ -89,7 +86,7 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>/portfolio/work7/</guid>
-      <description>&lt;p&gt;&lt;a href=&#39;https://gramin.jp/class/&#39;&gt;スマートフォンアプリ開発クラス（2017年3月閉講）&lt;/a&gt;では &lt;a href=&#39;https://linuxmint.com/&#39;&gt;Linux Mint&lt;/a&gt; を使って Java プログラミングをしています。その上でコマンドを使う機会がありますがその際に利用している資料です。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;スマートフォンアプリ開発クラス（2017年3月閉講）&lt;!-- raw HTML omitted --&gt;では &lt;!-- raw HTML omitted --&gt;Linux Mint&lt;!-- raw HTML omitted --&gt; を使って Java プログラミングをしています。その上でコマンドを使う機会がありますがその際に利用している資料です。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -98,8 +95,7 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>/portfolio/work19/</guid>
-      <description>&lt;p&gt;小学校におじゃました時や&lt;a href=&#39;https://gramin.jp/online-scratch-class/&#39;&gt;オンラインスクラッチクラス&lt;/a&gt;で授業をするときに使う資料（しりょう）です。&lt;/p&gt;
-
+      <description>&lt;p&gt;小学校におじゃました時や&lt;!-- raw HTML omitted --&gt;オンラインスクラッチクラス&lt;!-- raw HTML omitted --&gt;で授業をするときに使う資料（しりょう）です。&lt;/p&gt;
 &lt;p&gt;「端に触れたとき」を命令する方法をまとめました。&lt;/p&gt;</description>
     </item>
     
@@ -110,7 +106,6 @@
       
       <guid>/portfolio/work13/</guid>
       <description>&lt;p&gt;キッズプログラミング教室ぐらみんで講師（こうし）が小学校におじゃまして一緒（いっしょ）に Scratch ゲームを作った時に使った資料（しりょう）です。&lt;/p&gt;
-
 &lt;p&gt;まちがいさがしゲームです。左の絵と右の絵のまちがっている部分をさがそう！
 まちがっている部分を右の絵の中でクリックしてね。まちがいを全部見つけたらゲームクリアだよ！&lt;/p&gt;</description>
     </item>
@@ -121,7 +116,7 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>/portfolio/work8/</guid>
-      <description>&lt;p&gt;&lt;a href=&#39;https://gramin.jp/online-scratch-class/&#39;&gt;オンラインスクラッチクラス&lt;/a&gt;で作成した資料です。&lt;a href=&#39;https://scratch.mit.edu/&#39;&gt;Scratch&lt;/a&gt; がもともとオブジェクト指向を意識しており、その考え方の説明するために作成しました。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;オンラインスクラッチクラス&lt;!-- raw HTML omitted --&gt;で作成した資料です。&lt;!-- raw HTML omitted --&gt;Scratch&lt;!-- raw HTML omitted --&gt; がもともとオブジェクト指向を意識しており、その考え方の説明するために作成しました。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -149,7 +144,6 @@
       
       <guid>/portfolio/work21/</guid>
       <description>&lt;p&gt;小学校におじゃました時やオンラインスクラッチクラスで授業をするときに使う資料（しりょう）です。&lt;/p&gt;
-
 &lt;p&gt;キーボードのキーでジャンプできるようにする方法をまとめました。&lt;/p&gt;</description>
     </item>
     
@@ -160,7 +154,6 @@
       
       <guid>/portfolio/work20/</guid>
       <description>&lt;p&gt;小学校におじゃました時やオンラインスクラッチクラスで授業をするときに使う資料（しりょう）です。&lt;/p&gt;
-
 &lt;p&gt;キーボードのキーでスプライトを動かす方法をまとめました。&lt;/p&gt;</description>
     </item>
     
@@ -170,7 +163,7 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>/portfolio/work3/</guid>
-      <description>&lt;p&gt;&lt;a href=&#39;https://gramin.jp&#39;&gt;ぐらみん&lt;/a&gt; で使っているキーボード入力をする為のローマ字表です。よく使う文字は太字にして全てキーボードと同じように大文字にしています。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;ぐらみん&lt;!-- raw HTML omitted --&gt; で使っているキーボード入力をする為のローマ字表です。よく使う文字は太字にして全てキーボードと同じように大文字にしています。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -188,8 +181,7 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>/portfolio/work16/</guid>
-      <description>&lt;p&gt;小学校におじゃました時や&lt;a href=&#39;https://gramin.jp/online-scratch-class/&#39;&gt;オンラインスクラッチクラス&lt;/a&gt;で授業をするときに使う資料（しりょう）です。&lt;/p&gt;
-
+      <description>&lt;p&gt;小学校におじゃました時や&lt;!-- raw HTML omitted --&gt;オンラインスクラッチクラス&lt;!-- raw HTML omitted --&gt;で授業をするときに使う資料（しりょう）です。&lt;/p&gt;
 &lt;p&gt;コスチュームを足す方法をまとめました。&lt;/p&gt;</description>
     </item>
     
@@ -199,8 +191,7 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>/portfolio/work12/</guid>
-      <description>&lt;p&gt;&lt;a href=&#39;https://gramin.jp&#39;&gt;キッズプログラミング教室ぐらみん&lt;/a&gt; で講師（こうし）が小学校におじゃまして一緒（いっしょ）に Scratch ゲームを作った時に使った資料（しりょう）です。&lt;/p&gt;
-
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;キッズプログラミング教室ぐらみん&lt;!-- raw HTML omitted --&gt; で講師（こうし）が小学校におじゃまして一緒（いっしょ）に Scratch ゲームを作った時に使った資料（しりょう）です。&lt;/p&gt;
 &lt;p&gt;ちびっこモンスターにボールを当ててやっつけていくゲームです。30秒以内に何匹（なんびき）たおせるかな？&lt;/p&gt;</description>
     </item>
     
@@ -210,8 +201,7 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>/portfolio/work10/</guid>
-      <description>&lt;p&gt;&lt;a href=&#39;https://gramin.jp&#39;&gt;キッズプログラミング教室ぐらみん&lt;/a&gt; で講師（こうし）が小学校におじゃまして一緒（いっしょ）に Scratch ゲームを作った時に使った資料（しりょう）です。&lt;/p&gt;
-
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;キッズプログラミング教室ぐらみん&lt;!-- raw HTML omitted --&gt; で講師（こうし）が小学校におじゃまして一緒（いっしょ）に Scratch ゲームを作った時に使った資料（しりょう）です。&lt;/p&gt;
 &lt;p&gt;コウモリがジャンプするシンプルだけど奥（おく）が深（ふか）いゲームです。&lt;/p&gt;</description>
     </item>
     
@@ -221,7 +211,7 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>/portfolio/work9/</guid>
-      <description>&lt;p&gt;&lt;a href=&#39;https://scratch.mit.edu/&#39;&gt;Scratch&lt;/a&gt; ってなに？、画面の紹介、チュートリアル（ダンスしよう）、作品の保存方法、作品を開く方法を紹介します。これは Scratch バージョン 1.4 の時のものになります。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Scratch&lt;!-- raw HTML omitted --&gt; ってなに？、画面の紹介、チュートリアル（ダンスしよう）、作品の保存方法、作品を開く方法を紹介します。これは Scratch バージョン 1.4 の時のものになります。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -231,7 +221,6 @@
       
       <guid>/portfolio/work15/</guid>
       <description>&lt;p&gt;小学校におじゃまする時やオンラインスクラッチクラスで授業をするときに使う資料（しりょう）です。&lt;/p&gt;
-
 &lt;p&gt;スプライトを消す方法をまとめました。&lt;/p&gt;</description>
     </item>
     
@@ -241,8 +230,7 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>/portfolio/work14/</guid>
-      <description>&lt;p&gt;小学校におじゃまする時や&lt;a href=&#39;https://gramin.jp/online-scratch-class/&#39;&gt;オンラインスクラッチクラス&lt;/a&gt;で授業をするときに使う資料（しりょう）です。&lt;/p&gt;
-
+      <description>&lt;p&gt;小学校におじゃまする時や&lt;!-- raw HTML omitted --&gt;オンラインスクラッチクラス&lt;!-- raw HTML omitted --&gt;で授業をするときに使う資料（しりょう）です。&lt;/p&gt;
 &lt;p&gt;スプライトを追加（ついか）する方法をまとめました。&lt;/p&gt;</description>
     </item>
     
@@ -253,7 +241,6 @@
       
       <guid>/portfolio/work23/</guid>
       <description>&lt;p&gt;小学校におじゃました時やオンラインスクラッチクラスで授業をするときに使う資料（しりょう）です。&lt;/p&gt;
-
 &lt;p&gt;Scratch で HP（ヒットポイント）を作る時などに使える変数（へんすう）について説明しました。&lt;/p&gt;</description>
     </item>
     
@@ -264,7 +251,6 @@
       
       <guid>/portfolio/work22/</guid>
       <description>&lt;p&gt;小学校におじゃました時やオンラインスクラッチクラスで授業をするときに使う資料（しりょう）です。&lt;/p&gt;
-
 &lt;p&gt;座標（ざひょう）について説明しました。座標は小学校では習いませんが小学生でもすぐに理解（りかい）することができます。&lt;/p&gt;</description>
     </item>
     
@@ -275,7 +261,6 @@
       
       <guid>/portfolio/work17/</guid>
       <description>&lt;p&gt;小学校におじゃました時やオンラインスクラッチクラスで授業をするときに使う資料（しりょう）です。&lt;/p&gt;
-
 &lt;p&gt;背景（はいけい）を作る方法をまとめました。&lt;/p&gt;</description>
     </item>
     
@@ -286,7 +271,6 @@
       
       <guid>/portfolio/work18/</guid>
       <description>&lt;p&gt;小学校におじゃました時やオンラインスクラッチクラスで授業をするときに使う資料（しりょう）です。&lt;/p&gt;
-
 &lt;p&gt;背景（はいけい）を作る方法をまとめました。&lt;/p&gt;</description>
     </item>
     
@@ -297,7 +281,6 @@
       
       <guid>/portfolio/work11/</guid>
       <description>&lt;p&gt;キッズプログラミング教室ぐらみんで講師（こうし）が小学校におじゃまして一緒（いっしょ）に Scratch ゲームを作った時に使った資料（しりょう）です。&lt;/p&gt;
-
 &lt;p&gt;主人公（しゅじんこう）が上下左右のキーを使って迷路を進みながら黄色いマークへたどりつくゲームです。&lt;/p&gt;</description>
     </item>
     
