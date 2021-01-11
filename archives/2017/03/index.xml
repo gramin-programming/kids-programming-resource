@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2017/03 on 小学生のためのプログラミング教材</title>
-    <link>/archives/2017/03/</link>
+    <link>https://resource.gramin.jp/archives/2017/03/</link>
     <description>Recent content in 2017/03 on 小学生のためのプログラミング教材</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/archives/2017/03/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://resource.gramin.jp/archives/2017/03/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>アルファベットシューティング！</title>
-      <link>/post/typing-for-scratch/</link>
+      <link>https://resource.gramin.jp/post/typing-for-scratch/</link>
       <pubDate>Fri, 24 Mar 2017 18:25:22 +0530</pubDate>
       
-      <guid>/post/typing-for-scratch/</guid>
+      <guid>https://resource.gramin.jp/post/typing-for-scratch/</guid>
       <description>&lt;p&gt;タイピングに慣れない小学１年生〜小学４年生を対象にしたタイピングゲームです。&lt;/p&gt;
 &lt;p&gt;Scratch を使って作ってありますが小学校高学年のお子さんであれば自分でも作ることができます。&lt;/p&gt;
 &lt;p&gt;自分で作る場合、Scratch のリンク先からブロックが見れますので参考にして下さい。&lt;/p&gt;</description>
