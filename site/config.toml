@@ -1,4 +1,4 @@
-baseurl = "https://resource.gramin.jp/"
+baseurl = "https://resource.gramin.jp"
 DefaultContentLanguage = "ja-jp"
 title = "小学生のためのプログラミング教材"
 enableInlineShortcodes = true
