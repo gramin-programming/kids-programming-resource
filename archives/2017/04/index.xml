@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2017/04 on 小学生のためのプログラミング教材</title>
+    <link>/archives/2017/04/</link>
+    <description>Recent content in 2017/04 on 小学生のためのプログラミング教材</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/archives/2017/04/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>バブルソートを説明する Scratch アプリ</title>
+      <link>/post/bubble-sort/</link>
+      <pubDate>Tue, 04 Apr 2017 22:25:22 +0530</pubDate>
+      
+      <guid>/post/bubble-sort/</guid>
+      <description>&lt;p&gt;オンラインスクラッチクラス・ぐらみんこーどでバブルソートがどんなものなのかをシンプルに説明した Scratch アプリです。&lt;/p&gt;
+&lt;p&gt;バブルソートはイメージで説明するのがイチバン！！ということで作りました。&lt;/p&gt;
+&lt;p&gt;このアプリは説明しかしていなそうですが実際にプログラムの中でバブルソートもしています。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>小学校・中学校で習った漢字かどうかをチェックするツール</title>
+      <link>/post/kids-kanji-checker/</link>
+      <pubDate>Tue, 04 Apr 2017 18:25:22 +0530</pubDate>
+      
+      <guid>/post/kids-kanji-checker/</guid>
+      <description>&lt;p&gt;日本の小学生・中学生が使う常用漢字以外の漢字が使われていないかをチェックするツールです。&lt;/p&gt;
+&lt;p&gt;学校や塾の先生や子どもを持つご両親向けに作成しています。&lt;/p&gt;
+&lt;p&gt;コマンドで実行する必要がありますが、今のところ Microsoft word やテキスト文章、OpenOffice(LibreOffice Impress)のドキュメントに対して使うことができます。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,167 +1,206 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/portfolio/work28/</loc>
+    <loc>/post/typing/</loc>
+    <lastmod>2020-01-09T21:49:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/kanji-checker/</loc>
     <lastmod>2017-12-05T21:49:02+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work27/</loc>
+    <loc>/post/binary-number-by-finger/</loc>
     <lastmod>2017-08-23T21:49:02+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work26/</loc>
+    <loc>/post/bubble-sort/</loc>
     <lastmod>2017-04-04T22:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work25/</loc>
+    <loc>/post/kids-kanji-checker/</loc>
     <lastmod>2017-04-04T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work24/</loc>
+    <loc>/post/typing-for-scratch/</loc>
     <lastmod>2017-03-24T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work6/</loc>
+    <loc>/post/java-inheritance/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work7/</loc>
+    <loc>/post/basic-command/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work19/</loc>
+    <loc>/post/ref-touch-edge/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work13/</loc>
+    <loc>/post/lets-scratch-game004/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work8/</loc>
+    <loc>/post/what-object/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work4/</loc>
+    <loc>/contact/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work5/</loc>
+    <loc>/post/keyboard-and-symbol-mac/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work21/</loc>
+    <loc>/post/roma-table-for-keyboard-win/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work20/</loc>
+    <loc>/post/ref-jump-on-key/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work3/</loc>
+    <loc>/post/ref-move-sprite-on-key/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work2/</loc>
+    <loc>/post/roma-table-for-keyboard/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work16/</loc>
+    <loc>/post/keyboard-win/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work12/</loc>
+    <loc>/post/ref-add-costume/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work10/</loc>
+    <loc>/post/lets-scratch-game003/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work9/</loc>
+    <loc>/post/lets-scratch-game001/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work15/</loc>
+    <loc>/post/lets-start-scratch/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work14/</loc>
+    <loc>/post/ref-remove-sprite/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work23/</loc>
+    <loc>/post/ref-and-sprite/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work22/</loc>
+    <loc>/post/ref-variable/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work17/</loc>
+    <loc>/post/ref-xy/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work18/</loc>
+    <loc>/post/ref-create-background/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work11/</loc>
+    <loc>/post/ref-move-auto/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work1/</loc>
+    <loc>/post/lets-scratch-game002/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/portfolio/</loc>
-    <lastmod>2017-12-05T21:49:02+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <priority>0</priority>
+    <loc>/post/</loc>
+    <lastmod>2020-01-09T21:49:02+09:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-12-05T21:49:02+09:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-01-09T21:49:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/keyboard-mac/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/archives/2016/11/</loc>
+  </url>
+  
+  <url>
+    <loc>/archives/2017/03/</loc>
+  </url>
+  
+  <url>
+    <loc>/archives/2017/04/</loc>
+  </url>
+  
+  <url>
+    <loc>/archives/2017/08/</loc>
+  </url>
+  
+  <url>
+    <loc>/archives/2017/12/</loc>
+  </url>
+  
+  <url>
+    <loc>/archives/2020/01/</loc>
+  </url>
+  
+  <url>
+    <loc>/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

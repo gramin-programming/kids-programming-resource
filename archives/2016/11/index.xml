@@ -1,74 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>小学生のためのプログラミング教材</title>
-    <link>/</link>
-    <description>Recent content on 小学生のためのプログラミング教材</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 09 Jan 2020 21:49:02 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>ぐらみんのタイピングゲーム</title>
-      <link>/post/typing/</link>
-      <pubDate>Thu, 09 Jan 2020 21:49:02 +0900</pubDate>
-      
-      <guid>/post/typing/</guid>
-      <description>&lt;p&gt;キッズプログラミング教室ぐらみんでは小学１年生以上の方が遊びながらタイピングの練習ができるタイピングゲームを用意しています。&lt;/p&gt;
-&lt;p&gt;ローマ字は小学校で勉強することの多い訓令式（くんれいしき）をメインにしています。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>小学生・中学生の漢字かどうかをチェックするツール</title>
-      <link>/post/kanji-checker/</link>
-      <pubDate>Tue, 05 Dec 2017 21:49:02 +0900</pubDate>
-      
-      <guid>/post/kanji-checker/</guid>
-      <description>&lt;p&gt;小学生・中学生のお子さんを持つ親御さん、もしくは小中学校の先生が生徒に文書を見せる前にその漢字を習ったことがあるかをチェックするための Web ベースのツールを作りました。&lt;/p&gt;
-&lt;p&gt;使い方は簡単で左のテキスト欄に文章を入力して Ctrl + Enter を押すか、ワードやテキストファイルをドロップするだけです。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>2進数を手を使って数える方法を説明する Scratch アプリ</title>
-      <link>/post/binary-number-by-finger/</link>
-      <pubDate>Wed, 23 Aug 2017 21:49:02 +0900</pubDate>
-      
-      <guid>/post/binary-number-by-finger/</guid>
-      <description>&lt;p&gt;オンラインスクラッチクラス・ぐらみんこーどでは 2進数がどんなものかを説明しています。&lt;/p&gt;
-&lt;p&gt;この Scratch アプリは 2進数を指で数える方法を説明したものです。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>バブルソートを説明する Scratch アプリ</title>
-      <link>/post/bubble-sort/</link>
-      <pubDate>Tue, 04 Apr 2017 22:25:22 +0530</pubDate>
-      
-      <guid>/post/bubble-sort/</guid>
-      <description>&lt;p&gt;オンラインスクラッチクラス・ぐらみんこーどでバブルソートがどんなものなのかをシンプルに説明した Scratch アプリです。&lt;/p&gt;
-&lt;p&gt;バブルソートはイメージで説明するのがイチバン！！ということで作りました。&lt;/p&gt;
-&lt;p&gt;このアプリは説明しかしていなそうですが実際にプログラムの中でバブルソートもしています。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>小学校・中学校で習った漢字かどうかをチェックするツール</title>
-      <link>/post/kids-kanji-checker/</link>
-      <pubDate>Tue, 04 Apr 2017 18:25:22 +0530</pubDate>
-      
-      <guid>/post/kids-kanji-checker/</guid>
-      <description>&lt;p&gt;日本の小学生・中学生が使う常用漢字以外の漢字が使われていないかをチェックするツールです。&lt;/p&gt;
-&lt;p&gt;学校や塾の先生や子どもを持つご両親向けに作成しています。&lt;/p&gt;
-&lt;p&gt;コマンドで実行する必要がありますが、今のところ Microsoft word やテキスト文章、OpenOffice(LibreOffice Impress)のドキュメントに対して使うことができます。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>アルファベットシューティング！</title>
-      <link>/post/typing-for-scratch/</link>
-      <pubDate>Fri, 24 Mar 2017 18:25:22 +0530</pubDate>
-      
-      <guid>/post/typing-for-scratch/</guid>
-      <description>&lt;p&gt;タイピングに慣れない小学１年生〜小学４年生を対象にしたタイピングゲームです。&lt;/p&gt;
-&lt;p&gt;Scratch を使って作ってありますが小学校高学年のお子さんであれば自分でも作ることができます。&lt;/p&gt;
-&lt;p&gt;自分で作る場合、Scratch のリンク先からブロックが見れますので参考にして下さい。&lt;/p&gt;</description>
-    </item>
-    
+    <title>2016/11 on 小学生のためのプログラミング教材</title>
+    <link>/archives/2016/11/</link>
+    <description>Recent content in 2016/11 on 小学生のためのプログラミング教材</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/archives/2016/11/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java の抽象クラス・インタフェース・無名クラスを理解しよう</title>
       <link>/post/java-inheritance/</link>
@@ -116,15 +52,6 @@
       
       <guid>/post/what-object/</guid>
       <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;オンラインスクラッチクラス&lt;!-- raw HTML omitted --&gt;で作成した資料です。&lt;!-- raw HTML omitted --&gt;Scratch&lt;!-- raw HTML omitted --&gt; がもともとオブジェクト指向を意識しており、その考え方の説明するために作成しました。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>キッズプログラミング教室ぐらみん</title>
-      <link>/contact/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>/contact/</guid>
-      <description>ぐらみん株式会社が運営しているキッズプログラミング教室ぐらみんで授業の時に利用している教材です。ライセンスは CC BY ND と BY SA の２つがあるのでご注</description>
     </item>
     
     <item>
@@ -290,15 +217,6 @@
       <guid>/post/lets-scratch-game002/</guid>
       <description>&lt;p&gt;キッズプログラミング教室ぐらみんで講師（こうし）が小学校におじゃまして一緒（いっしょ）に Scratch ゲームを作った時に使った資料（しりょう）です。&lt;/p&gt;
 &lt;p&gt;主人公（しゅじんこう）が上下左右のキーを使って迷路を進みながら黄色いマークへたどりつくゲームです。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/archives/</guid>
-      <description></description>
     </item>
     
     <item>

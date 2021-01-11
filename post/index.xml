@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>小学生のためのプログラミング教材</title>
-    <link>/</link>
-    <description>Recent content on 小学生のためのプログラミング教材</description>
+    <title>Posts on 小学生のためのプログラミング教材</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on 小学生のためのプログラミング教材</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 09 Jan 2020 21:49:02 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Jan 2020 21:49:02 +0900</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ぐらみんのタイピングゲーム</title>
       <link>/post/typing/</link>
@@ -116,15 +116,6 @@
       
       <guid>/post/what-object/</guid>
       <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;オンラインスクラッチクラス&lt;!-- raw HTML omitted --&gt;で作成した資料です。&lt;!-- raw HTML omitted --&gt;Scratch&lt;!-- raw HTML omitted --&gt; がもともとオブジェクト指向を意識しており、その考え方の説明するために作成しました。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>キッズプログラミング教室ぐらみん</title>
-      <link>/contact/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>/contact/</guid>
-      <description>ぐらみん株式会社が運営しているキッズプログラミング教室ぐらみんで授業の時に利用している教材です。ライセンスは CC BY ND と BY SA の２つがあるのでご注</description>
     </item>
     
     <item>
@@ -290,15 +281,6 @@
       <guid>/post/lets-scratch-game002/</guid>
       <description>&lt;p&gt;キッズプログラミング教室ぐらみんで講師（こうし）が小学校におじゃまして一緒（いっしょ）に Scratch ゲームを作った時に使った資料（しりょう）です。&lt;/p&gt;
 &lt;p&gt;主人公（しゅじんこう）が上下左右のキーを使って迷路を進みながら黄色いマークへたどりつくゲームです。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/archives/</guid>
-      <description></description>
     </item>
     
     <item>
