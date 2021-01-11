@@ -1,48 +1,63 @@
 baseurl = "/"
-languageCode = "ja-jp"
+DefaultContentLanguage = "ja-jp"
 title = "小学生のためのプログラミング教材"
-
-theme = "hugo-creative-portfolio-theme"
-
+enableInlineShortcodes = true
+theme = "Blonde"
+enableRobotsTXT = true
 disqusShortname = "ぐらみん株式会社が運営している キッズプログラミング教室ぐらみんで授業の時に利用している教材です。"
 
+hasCJKLanguage = true
 googleAnalytics = "UA-3918039-22"
 
-contentdir = "content"
-datadir = "data"
-layoutdir = "layouts"
-publishdir = "public"
-
 [params]
-  # Style options: default (pink), blue, green, pink, red, sea, violet
-  # Use custom.css for your custom styling
-  style = "green"
-  description = "小学生向けのプログラミング教室ぐらみん"
-  copyright = "&copy;2015 <a href='https://gramin.jp'>ぐらみん株式会社</a>"
-  sidebarAbout = [
-    "<a href='https://gramin.jp'>ぐらみん株式会社</a>が運営しているキッズプログラミング教室ぐらみんで授業の時に利用している教材です。ライセンスは CC BY ND と BY SA の２つがあるのでご注意下さい",
-  ]
-  # Contact page
-     # Since this template is static, the contact form uses www.formspree.io as a
-     # proxy. The form makes a POST request to their servers to send the actual
-     # email. Visitors can send up to a 1000 emails each month for free.
-     #
-     # What you need to do for the setup?
-     #
-     # - set your email address under 'email' below
-     # - upload the generated site to your server
-     # - send a dummy email yourself to confirm your account
-     # - click the confirm link in the email from www.formspree.io
-     # - you're done. Happy mailing!
-  email = "support@gramin.jp"
+# The number of articles to be displayed on a single page.
+paginator_pages = "5"
 
-  [params.social]
-  facebook      = "https://www.facebook.com/gramin.programing"
-  email         = "support@gramin.jp"
-  twitter       = "https://twitter.com/GraminInfo"
-  github        = "https://github.com/gramin-programming"
+# Enable this if you want the archive list to be in a drop-down format.
+archive_dropdown = "false"
 
-  [[params.navlinks]]
-  name = "Home"
-  url = "portfolio/"
-  home = true
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 2
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+archive = "archives"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
