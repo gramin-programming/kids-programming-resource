@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>キーボード on 小学生のためのプログラミング教材</title>
+    <link>https://resource.gramin.jp/tags/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/</link>
+    <description>Recent content in キーボード on 小学生のためのプログラミング教材</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate><atom:link href="https://resource.gramin.jp/tags/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方（Mac向け）</title>
+      <link>https://resource.gramin.jp/post/keyboard-and-symbol-mac/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://resource.gramin.jp/post/keyboard-and-symbol-mac/</guid>
+      <description>&lt;p&gt;Mac で使われるキーボードの記号や特殊なキーの読み方です。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>キーボードと記号（きごう）・特殊（とくしゅ）キーの読み方（Windows向け）</title>
+      <link>https://resource.gramin.jp/post/roma-table-for-keyboard-win/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://resource.gramin.jp/post/roma-table-for-keyboard-win/</guid>
+      <description>&lt;p&gt;Windows で使われるキーボードの記号や特殊なキーの読み方です。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>キーボード入力ローマ字表</title>
+      <link>https://resource.gramin.jp/post/roma-table-for-keyboard/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://resource.gramin.jp/post/roma-table-for-keyboard/</guid>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;ぐらみん&lt;!-- raw HTML omitted --&gt; で使っているキーボード入力をする為のローマ字表です。よく使う文字は太字にして全てキーボードと同じように大文字にしています。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>キーボード入力表（Windows 向け）</title>
+      <link>https://resource.gramin.jp/post/keyboard-win/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://resource.gramin.jp/post/keyboard-win/</guid>
+      <description>&lt;p&gt;Windows で使われるキーボードのキーの一覧と特殊なキーの簡単な説明です。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>キーボード入力表（Mac 向け）</title>
+      <link>https://resource.gramin.jp/post/keyboard-mac/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://resource.gramin.jp/post/keyboard-mac/</guid>
+      <description>&lt;p&gt;Mac で使われるキーボードのキーの一覧と特殊なキーの簡単な説明です。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>コマンド on 小学生のためのプログラミング教材</title>
+    <link>https://resource.gramin.jp/tags/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89/</link>
+    <description>Recent content in コマンド on 小学生のためのプログラミング教材</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate><atom:link href="https://resource.gramin.jp/tags/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mac/Linux と Windows の基本コマンド集</title>
+      <link>https://resource.gramin.jp/post/basic-command/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://resource.gramin.jp/post/basic-command/</guid>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;スマートフォンアプリ開発クラス（2017年3月閉講）&lt;!-- raw HTML omitted --&gt;では &lt;!-- raw HTML omitted --&gt;Linux Mint&lt;!-- raw HTML omitted --&gt; を使って Java プログラミングをしています。その上でコマンドを使う機会がありますがその際に利用している資料です。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

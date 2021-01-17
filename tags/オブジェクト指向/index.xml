@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>オブジェクト指向 on 小学生のためのプログラミング教材</title>
+    <link>https://resource.gramin.jp/tags/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91/</link>
+    <description>Recent content in オブジェクト指向 on 小学生のためのプログラミング教材</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate><atom:link href="https://resource.gramin.jp/tags/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java の抽象クラス・インタフェース・無名クラスを理解しよう</title>
+      <link>https://resource.gramin.jp/post/java-inheritance/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://resource.gramin.jp/post/java-inheritance/</guid>
+      <description>&lt;p&gt;キッズプログラミング教室ぐらみんで&lt;!-- raw HTML omitted --&gt;スマートフォンアプリ開発クラス（2017年3月閉講）&lt;!-- raw HTML omitted --&gt;向けに作成した資料です。&lt;/p&gt;
+&lt;p&gt;Java で抽象クラス・インタフェースの理解に苦しむ方を対象にしています。身近な例（哺乳類・爬虫類）を使って抽象クラス・インタフェースの使い道を簡単に説明し、無名クラスについても簡単に触れています。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>オブジェクト指向って何？</title>
+      <link>https://resource.gramin.jp/post/what-object/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://resource.gramin.jp/post/what-object/</guid>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;オンラインスクラッチクラス&lt;!-- raw HTML omitted --&gt;で作成した資料です。&lt;!-- raw HTML omitted --&gt;Scratch&lt;!-- raw HTML omitted --&gt; がもともとオブジェクト指向を意識しており、その考え方の説明するために作成しました。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
