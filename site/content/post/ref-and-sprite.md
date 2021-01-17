@@ -8,6 +8,10 @@ title = "スプライトを足してみよう"
 
 weight = 1
 archives = ["2016/11"]
+tags = [
+  "Scratch",
+  "作り方",
+]
 +++
 小学校におじゃまする時や<a href='https://gramin.jp/online-scratch-class/'>オンラインスクラッチクラス</a>で授業をするときに使う資料（しりょう）です。
 

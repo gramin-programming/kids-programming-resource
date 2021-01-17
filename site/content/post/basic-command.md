@@ -8,6 +8,9 @@ title = "Mac/Linux と Windows の基本コマンド集"
 
 weight = 1
 archives = ["2016/11"]
+tags = [
+  "コマンド",
+]
 +++
 <a href='https://gramin.jp/class/'>スマートフォンアプリ開発クラス（2017年3月閉講）</a>では <a href='https://linuxmint.com/'>Linux Mint</a> を使って Java プログラミングをしています。その上でコマンドを使う機会がありますがその際に利用している資料です。
 <!--more-->

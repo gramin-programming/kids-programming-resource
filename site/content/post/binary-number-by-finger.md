@@ -6,6 +6,9 @@ showonlyimage = false
 title = "2進数を手を使って数える方法を説明する Scratch アプリ"
 weight = 1
 archives = ["2017/08"]
+tags = [
+  "Scratch",
+]
 +++
 オンラインスクラッチクラス・ぐらみんこーどでは 2進数がどんなものかを説明しています。
 

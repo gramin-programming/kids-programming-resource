@@ -8,6 +8,9 @@ title = "オブジェクト指向って何？"
 
 weight = 1
 archives = ["2016/11"]
+tags = [
+  "オブジェクト指向",
+]
 +++
 <a href='https://gramin.jp/online-scratch-class/'>オンラインスクラッチクラス</a>で作成した資料です。<a href='https://scratch.mit.edu/'>Scratch</a> がもともとオブジェクト指向を意識しており、その考え方の説明するために作成しました。
 <!--more-->

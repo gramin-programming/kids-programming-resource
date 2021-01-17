@@ -8,6 +8,9 @@ title = "スクラッチをはじめよう"
 
 weight = 1
 archives = ["2016/11"]
+tags = [
+  "Scratch",
+]
 +++
 <a href='https://scratch.mit.edu/'>Scratch</a> ってなに？、画面の紹介、チュートリアル（ダンスしよう）、作品の保存方法、作品を開く方法を紹介します。これは Scratch バージョン 1.4 の時のものになります。
 <!--more-->
