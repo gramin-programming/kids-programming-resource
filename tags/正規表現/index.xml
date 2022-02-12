@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>正規表現 on 小学生のためのプログラミング教材</title>
+    <link>https://resource.gramin.jp/tags/%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%8F%BE/</link>
+    <description>Recent content in 正規表現 on 小学生のためのプログラミング教材</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 12 Feb 2022 14:19:14 +0900</lastBuildDate><atom:link href="https://resource.gramin.jp/tags/%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%8F%BE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ぐらみん正規表現テスター</title>
+      <link>https://resource.gramin.jp/post/regex-tool/</link>
+      <pubDate>Sat, 12 Feb 2022 14:19:14 +0900</pubDate>
+      
+      <guid>https://resource.gramin.jp/post/regex-tool/</guid>
+      <description>&lt;p&gt;主にぐらみんのオンライン授業であるぐらみんこーどで使っている正規表現テストツールです。&lt;/p&gt;
+&lt;p&gt;ぐらみんこーどは JavaScript の授業となるため、このテストツールも JavaScript の正規表現に対応しています。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
