@@ -15,4 +15,5 @@ https://gramin.jp
 教材の公式ホームページの方にそれぞれの説明を記載しています。
 そちらをご覧下さい。
 
-[![https://github.com/gramin-programming/kids-programming-resource/blob/master/site/static/img/hp-image.png?raw=true](http://resource.gramin.jp)]((http://resource.gramin.jp))
+..image:: https://github.com/gramin-programming/kids-programming-resource/blob/master/site/static/img/hp-image.png?raw=true
+    :target: http://resource.gramin.jp
