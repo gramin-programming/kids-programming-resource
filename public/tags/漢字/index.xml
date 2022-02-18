@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>漢字 on 小学生のためのプログラミング教材</title>
+    <link>https://resource.gramin.jp/tags/%E6%BC%A2%E5%AD%97/</link>
+    <description>Recent content in 漢字 on 小学生のためのプログラミング教材</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 05 Dec 2017 21:49:02 +0900</lastBuildDate><atom:link href="https://resource.gramin.jp/tags/%E6%BC%A2%E5%AD%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>小学生・中学生の漢字かどうかをチェックするツール</title>
+      <link>https://resource.gramin.jp/post/kanji-checker/</link>
+      <pubDate>Tue, 05 Dec 2017 21:49:02 +0900</pubDate>
+      
+      <guid>https://resource.gramin.jp/post/kanji-checker/</guid>
+      <description>&lt;p&gt;小学生・中学生のお子さんを持つ親御さん、もしくは小中学校の先生が生徒に文書を見せる前にその漢字を習ったことがあるかをチェックするための Web ベースのツールを作りました。&lt;/p&gt;
+&lt;p&gt;使い方は簡単で左のテキスト欄に文章を入力して Ctrl + Enter を押すか、ワードやテキストファイルをドロップするだけです。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>小学校・中学校で習った漢字かどうかをチェックするツール</title>
+      <link>https://resource.gramin.jp/post/kids-kanji-checker/</link>
+      <pubDate>Tue, 04 Apr 2017 18:25:22 +0530</pubDate>
+      
+      <guid>https://resource.gramin.jp/post/kids-kanji-checker/</guid>
+      <description>&lt;p&gt;日本の小学生・中学生が使う常用漢字以外の漢字が使われていないかをチェックするツールです。&lt;/p&gt;
+&lt;p&gt;学校や塾の先生や子どもを持つご両親向けに作成しています。&lt;/p&gt;
+&lt;p&gt;コマンドで実行する必要がありますが、今のところ Microsoft word やテキスト文章、OpenOffice(LibreOffice Impress)のドキュメントに対して使うことができます。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

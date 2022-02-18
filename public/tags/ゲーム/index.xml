@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ゲーム on 小学生のためのプログラミング教材</title>
+    <link>https://resource.gramin.jp/tags/%E3%82%B2%E3%83%BC%E3%83%A0/</link>
+    <description>Recent content in ゲーム on 小学生のためのプログラミング教材</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Jan 2020 21:49:02 +0900</lastBuildDate><atom:link href="https://resource.gramin.jp/tags/%E3%82%B2%E3%83%BC%E3%83%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ぐらみんのタイピングゲーム</title>
+      <link>https://resource.gramin.jp/post/typing/</link>
+      <pubDate>Thu, 09 Jan 2020 21:49:02 +0900</pubDate>
+      
+      <guid>https://resource.gramin.jp/post/typing/</guid>
+      <description>&lt;p&gt;キッズプログラミング教室ぐらみんでは小学１年生以上の方が遊びながらタイピングの練習ができるタイピングゲームを用意しています。&lt;/p&gt;
+&lt;p&gt;ローマ字は小学校で勉強することの多い訓令式（くんれいしき）をメインにしています。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>アルファベットシューティング！</title>
+      <link>https://resource.gramin.jp/post/typing-for-scratch/</link>
+      <pubDate>Fri, 24 Mar 2017 18:25:22 +0530</pubDate>
+      
+      <guid>https://resource.gramin.jp/post/typing-for-scratch/</guid>
+      <description>&lt;p&gt;タイピングに慣れない小学１年生〜小学４年生を対象にしたタイピングゲームです。&lt;/p&gt;
+&lt;p&gt;Scratch を使って作ってありますが小学校高学年のお子さんであれば自分でも作ることができます。&lt;/p&gt;
+&lt;p&gt;自分で作る場合、Scratch のリンク先からブロックが見れますので参考にして下さい。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>まちがいさがしゲーム</title>
+      <link>https://resource.gramin.jp/post/lets-scratch-game004/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://resource.gramin.jp/post/lets-scratch-game004/</guid>
+      <description>&lt;p&gt;キッズプログラミング教室ぐらみんで講師（こうし）が小学校におじゃまして一緒（いっしょ）に Scratch ゲームを作った時に使った資料（しりょう）です。&lt;/p&gt;
+&lt;p&gt;まちがいさがしゲームです。左の絵と右の絵のまちがっている部分をさがそう！
+まちがっている部分を右の絵の中でクリックしてね。まちがいを全部見つけたらゲームクリアだよ！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>シューティングゲーム</title>
+      <link>https://resource.gramin.jp/post/lets-scratch-game003/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://resource.gramin.jp/post/lets-scratch-game003/</guid>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;キッズプログラミング教室ぐらみん&lt;!-- raw HTML omitted --&gt; で講師（こうし）が小学校におじゃまして一緒（いっしょ）に Scratch ゲームを作った時に使った資料（しりょう）です。&lt;/p&gt;
+&lt;p&gt;ちびっこモンスターにボールを当ててやっつけていくゲームです。30秒以内に何匹（なんびき）たおせるかな？&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ジャンプするゲームの作り方</title>
+      <link>https://resource.gramin.jp/post/lets-scratch-game001/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://resource.gramin.jp/post/lets-scratch-game001/</guid>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;キッズプログラミング教室ぐらみん&lt;!-- raw HTML omitted --&gt; で講師（こうし）が小学校におじゃまして一緒（いっしょ）に Scratch ゲームを作った時に使った資料（しりょう）です。&lt;/p&gt;
+&lt;p&gt;コウモリがジャンプするシンプルだけど奥（おく）が深（ふか）いゲームです。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>迷路（めいろ）を進むゲーム</title>
+      <link>https://resource.gramin.jp/post/lets-scratch-game002/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://resource.gramin.jp/post/lets-scratch-game002/</guid>
+      <description>&lt;p&gt;キッズプログラミング教室ぐらみんで講師（こうし）が小学校におじゃまして一緒（いっしょ）に Scratch ゲームを作った時に使った資料（しりょう）です。&lt;/p&gt;
+&lt;p&gt;主人公（しゅじんこう）が上下左右のキーを使って迷路を進みながら黄色いマークへたどりつくゲームです。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
