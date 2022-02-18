@@ -21,7 +21,7 @@ tags = [
 
 ### svg 形式
 
-[日本地図.svg](https://github.com/gramin-programming/kids-programming-resource/blob/master/日本地図.svg "日本地図.svg")
+[日本地図.svg](https://raw.githubusercontent.com/gramin-programming/kids-programming-resource/master/%E6%97%A5%E6%9C%AC%E5%9C%B0%E5%9B%B3.svg "日本地図.svg")
 
 
 ### ライセンス
