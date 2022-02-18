@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://resource.gramin.jp/post/japanese-map/</loc>
+    <lastmod>2022-02-18T16:49:02+09:00</lastmod>
+  </url><url>
     <loc>https://resource.gramin.jp/post/regex-tool/</loc>
     <lastmod>2022-02-12T14:19:14+09:00</lastmod>
   </url><url>
@@ -93,12 +96,12 @@
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url><url>
     <loc>https://resource.gramin.jp/post/</loc>
-    <lastmod>2022-02-12T14:19:14+09:00</lastmod>
-  </url><url>
-    <loc>https://resource.gramin.jp/tags/</loc>
-    <lastmod>2022-02-12T14:19:14+09:00</lastmod>
+    <lastmod>2022-02-18T16:49:02+09:00</lastmod>
   </url><url>
     <loc>https://resource.gramin.jp/</loc>
+    <lastmod>2022-02-18T16:49:02+09:00</lastmod>
+  </url><url>
+    <loc>https://resource.gramin.jp/tags/</loc>
     <lastmod>2022-02-12T14:19:14+09:00</lastmod>
   </url><url>
     <loc>https://resource.gramin.jp/tags/%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%8F%BE/</loc>
